@@ -1,0 +1,684 @@
+name,source,gender,wikidata,type
+"Avenue de Morges",wikidata,,Q69401,way
+"Chemin du Parc-de-Valency",wikidata,,Q86726637,way
+"Rue de Genève",wikidata,,Q71,way
+"Rue de la Tour",wikidata,,Q16010656,way
+"Allée Ernest-Ansermet",,,,way
+"Allée des Bacounis",,,,way
+"Allée du Bornan",,,,way
+"Avenue Agassiz",,,,way
+"Avenue André-Gindroz",,,,way
+"Avenue André-Schnetzler",,,,way
+"Avenue Antoine-Michel-Servan",,,,way
+"Avenue Auguste Tissot",,,,way
+"Avenue Auguste-Verdeil",,,,way
+"Avenue Beauregard",,,,way
+"Avenue Benjamin-Constant",,,,way
+"Avenue Cécil",,,,way
+"Avenue Charles-Dickens",,,,way
+"Avenue Charles-Ferdinand-Ramuz",,,,way
+"Avenue Charles-Secrétan",,,,way
+"Avenue Collonges",,,,way
+"Avenue Édouard-Dapples",,,,way
+"Avenue Edouard-Rod",,,,way
+"Avenue Eglantine",,,,way
+"Avenue Emile-Henri-Jaques-Dalcroze",,,,way
+"Avenue Eugène-Rambert",,,,way
+"Avenue Fantaisie",,,,way
+"Avenue Floréal",,,,way
+"Avenue Frédéric-César-de-La-Harpe",,,,way
+"Avenue Georgette",,,,way
+"Avenue Gustave-Doret",,,,way
+"Avenue Henri-Antoine de Crousaz",,,,way
+"Avenue Henri-Warnery",,,,way
+"Avenue Jean-Jacques Mercier",,,,way
+"Avenue Jolimont",,,,way
+"Avenue Jules-Gonin",,,,way
+"Avenue Juste-Olivier",,,,way
+"Avenue Louis-Ruchonnet",,,,way
+"Avenue Louis-Vulliemin",,,,way
+"Avenue Marc-Dufour",,,,way
+"Avenue Maria-Belgia",,,,way
+"Avenue Mon-Repos",,,,way
+"Avenue Montagibert",,,,way
+"Avenue Pierre-Decker",,,,way
+"Avenue Pierre-Maurice Glayre",,,,way
+"Avenue Pierre-de-Coubertin",,,,way
+"Avenue Robert de Menthon",,,,way
+"Avenue Saint-Paul",,,,way
+"Avenue Sainte-Luce",,,,way
+"Avenue Victor-Ruffy",,,,way
+"Avenue Villamont",,,,way
+"Avenue Virgile-Rossel",,,,way
+"Avenue William-Fraisse",,,,way
+"Avenue William-de-Charrière de Sévery",,,,way
+"Avenue d'Aoste",,,,way
+"Avenue d'Echallens",,,,way
+"Avenue d'Evian",,,,way
+"Avenue d'Ouchy",,,,way
+"Avenue d'Yverdon",,,,way
+"Avenue de Beaulieu",,,,way
+"Avenue de Beaumont",,,,way
+"Avenue de Béthusy",,,,way
+"Avenue de Chailly",,,,way
+"Avenue de Cour",,,,way
+"Avenue de Florimont",,,,way
+"Avenue de France",,,,way
+"Avenue de Gratta-Paille",,,,way
+"Avenue de Jaman",,,,way
+"Avenue de Jurigoz",,,,way
+"Avenue de Longemalle",,,,way
+"Avenue de Milan",,,,way
+"Avenue de Mon-Loisir",,,,way
+"Avenue de Montbenon",,,,way
+"Avenue de Montchoisi",,,,way
+"Avenue de Montoie",,,,way
+"Avenue de Provence",,,,way
+"Avenue de Rhodanie",,,,way
+"Avenue de Riant-Mont",,,,way
+"Avenue de Rosemont",,,,way
+"Avenue de Rumine",,,,way
+"Avenue de Savoie",,,,way
+"Avenue de Sévelin",,,,way
+"Avenue de Solange",,,,way
+"Avenue de Tivoli",,,,way
+"Avenue de Valmont",,,,way
+"Avenue de Vernand-Dessous",,,,way
+"Avenue de Vernand-Dessus",,,,way
+"Avenue de l'Avant-Poste",,,,way
+"Avenue de l'Église-Anglaise",,,,way
+"Avenue de l'Élysée",,,,way
+"Avenue de l'Esplanade",,,,way
+"Avenue de l'Université",,,,way
+"Avenue de la Chablière",,,,way
+"Avenue de la Confrérie",,,,way
+"Avenue de la Dent-d'Oche",,,,way
+"Avenue de la Dôle",,,,way
+"Avenue de la Gare",,,,way
+"Avenue de la Rapille",,,,way
+"Avenue de la Rasude",,,,way
+"Avenue de la Sallaz",,,,way
+"Avenue de la Tour Haldimand",,,,way
+"Avenue de la Vallombreuse",,,,way
+"Avenue de la Vallonnette",,,,way
+"Avenue des Acacias",,,,way
+"Avenue des Alpes",,,,way
+"Avenue des Bains",,,,way
+"Avenue des Belles-Roches",,,,way
+"Avenue des Bergières",,,,way
+"Avenue des Boveresses",,,,way
+"Avenue des Casernes",,,,way
+"Avenue des Figuiers",,,,way
+"Avenue des Jordils",,,,way
+"Avenue des Mousquines",,,,way
+"Avenue des Oiseaux",,,,way
+"Avenue des Oscherins",,,,way
+"Avenue des Tilleuls",,,,way
+"Avenue des Toises",,,,way
+"Avenue du Belvédère",,,,way
+"Avenue du Chablais",,,,way
+"Avenue du Denantou",,,,way
+"Avenue du Galicien",,,,way
+"Avenue du Grammont",,,,way
+"Avenue du Grey",,,,way
+"Avenue du Léman",,,,way
+"Avenue du Mont-Blanc",,,,way
+"Avenue du Mont-d'Or",,,,way
+"Avenue du Parc-de-la-Rouvraie",,,,way
+"Avenue du Rond-Point",,,,way
+"Avenue du Temple",,,,way
+"Avenue du Théâtre",,,,way
+"Avenue du Tribunal-Fédéral",,,,way
+"Avenue du Vélodrome",,,,way
+"Avenue du Vieux-Moulin",,,,way
+"Avenue du Vingt-Quatre-Janvier",,,,way
+"Boulevard de Grancy",,,,way
+"Boulevard de la Forêt",,,,way
+"Cap de Vaudaire",,,,way
+"Chemin Aimé-Steinlen",,,,way
+"Chemin Antoine-de-Chandieu",,,,way
+"Chemin Auguste-Pidou",,,,way
+"Chemin Beau-Site",,,,way
+"Chemin Benjamin-Dumur",,,,way
+"Chemin Charles-Gide",,,,way
+"Chemin Edouard Sandoz",,,,way
+"Chemin Eugène-Grasset",,,,way
+"Chemin François-de-Lucinge",,,,way
+"Chemin Général-Charles-Jules-Guiguer-de-Prangins",,,,way
+"Chemin Guillaume de Pierrefleur",,,,way
+"Chemin Isabelle-de-Montolieu",,,,way
+"Chemin Jaques-Larguier des Bancels",,,,way
+"Chemin Louis-Boissonnet",,,,way
+"Chemin Messidor",,,,way
+"Chemin Praz-Lau",,,,way
+"Chemin Renou",,,,way
+"Chemin Riant-Pré",,,,way
+"Chemin Riant-Val",,,,way
+"Chemin Simplemont",,,,way
+"Chemin Vermont",,,,way
+"Chemin d'Entre-Bois",,,,way
+"Chemin de Ballègue",,,,way
+"Chemin de Barberine",,,,way
+"Chemin de Beau-Rivage",,,,way
+"Chemin de Beau-Val",,,,way
+"Chemin de Belle-Source",,,,way
+"Chemin de Bellerive",,,,way
+"Chemin de Bellevue",,,,way
+"Chemin de Bérée",,,,way
+"Chemin de Bochardon",,,,way
+"Chemin de Bon-Abri",,,,way
+"Chemin de Bonne-Espérance",,,,way
+"Chemin de Boston",,,,way
+"Chemin de Champ-Rond",,,,way
+"Chemin de Champ-Soleil",,,,way
+"Chemin de Champrilly",,,,way
+"Chemin de Chandolin",,,,way
+"Chemin de Chantemerle",,,,way
+"Chemin de Chissiez",,,,way
+"Chemin de Clamadour",,,,way
+"Chemin de Clos-Valeyre",,,,way
+"Chemin de Contigny",,,,way
+"Chemin de Couvaloup",,,,way
+"Chemin de Craivavers",,,,way
+"Chemin de Florency",,,,way
+"Chemin de Fontannaz",,,,way
+"Chemin de Fontenay",,,,way
+"Chemin de Gottettaz",,,,way
+"Chemin de Grand-Vennes",,,,way
+"Chemin de Grande-Rive",,,,way
+"Chemin de Grésy",,,,way
+"Chemin de Haute-Brise",,,,way
+"Chemin de Haute-Vue",,,,way
+"Chemin de La Vuachère",,,,way
+"Chemin de Longeraie",,,,way
+"Chemin de Louis Boissonnet",,,,way
+"Chemin de Maillefer",,,,way
+"Chemin de Malley",,,,way
+"Chemin de Marin",,,,way
+"Chemin de Mauvernay",,,,way
+"Chemin de Meillerie",,,,way
+"Chemin de Mémise",,,,way
+"Chemin de Moille Saugeon",,,,way
+"Chemin de Mont-Paisible",,,,way
+"Chemin de Montelly",,,,way
+"Chemin de Montétan",,,,way
+"Chemin de Montmeillan",,,,way
+"Chemin de Montolivet",,,,way
+"Chemin de Mornex",,,,way
+"Chemin de Passerose",,,,way
+"Chemin de Pierre Ozaire",,,,way
+"Chemin de Pierre-de-Plan",,,,way
+"Chemin de Pierrefleur",,,,way
+"Chemin de Pierreval",,,,way
+"Chemin de Praz-Berthoud",,,,way
+"Chemin de Praz-Buchilly",,,,way
+"Chemin de Praz-Séchaud",,,,way
+"Chemin de Praz-Simon",,,,way
+"Chemin de Pré-Fleuri",,,,way
+"Chemin de Préville",,,,way
+"Chemin de Primerose",,,,way
+"Chemin de Réchoz",,,,way
+"Chemin de Renens",,,,way
+"Chemin de Richesson",,,,way
+"Chemin de Roseneck",,,,way
+"Chemin de Rovéréaz",,,,way
+"Chemin de Valdézia",,,,way
+"Chemin de Verdonnet",,,,way
+"Chemin de Villard",,,,way
+"Chemin de Villardin",,,,way
+"Chemin de l'Ancien-Stand",,,,way
+"Chemin de l'Usine-à-Gaz",,,,way
+"Chemin de la Batelière",,,,way
+"Chemin de la Bergerie",,,,way
+"Chemin de la Cassinette",,,,way
+"Chemin de la Chapelle",,,,way
+"Chemin de la Chaumière",,,,way
+"Chemin de la Chocolatière",,,,way
+"Chemin de la Cigale",,,,way
+"Chemin de la Coffette",,,,way
+"Chemin de la Colline",,,,way
+"Chemin de la Coudrette",,,,way
+"Chemin de la Cure",,,,way
+"Chemin de la Dranse",,,,way
+"Chemin de la Fauvette",,,,way
+"Chemin de la Ficelle",,,,way
+"Chemin de la Fontaine-des-Meules",,,,way
+"Chemin de la Forêt",,,,way
+"Chemin de la Fourmi",,,,way
+"Chemin de la Fruitière",,,,way
+"Chemin de la Gottettaz",,,,way
+"Chemin de la Grangette",,,,way
+"Chemin de la Gravière",,,,way
+"Chemin de la Joliette",,,,way
+"Chemin de la Lisière",,,,way
+"Chemin de la Mèbre",,,,way
+"Chemin de la Motte",,,,way
+"Chemin de la Pécholettaz",,,,way
+"Chemin de la Pétause",,,,way
+"Chemin de la Petite-Source",,,,way
+"Chemin de la Pierre à Cambot",,,,way
+"Chemin de la Plaisante",,,,way
+"Chemin de la Planche-au-Comte",,,,way
+"Chemin de la Planche-aux-Oies",,,,way
+"Chemin de la Prairie",,,,way
+"Chemin de la Ratavolar",,,,way
+"Chemin de la Rosière",,,,way
+"Chemin de la Suettaz",,,,way
+"Chemin de la Tour-Grise",,,,way
+"Chemin de la Vallombreuse",,,,way
+"Chemin de la Vuachère",,,,way
+"Chemin de la Vulliettaz",,,,way
+"Chemin de la Vulliette",,,,way
+"Chemin des Abeilles",,,,way
+"Chemin des Allières",,,,way
+"Chemin des Allinges",,,,way
+"Chemin des Aubépines",,,,way
+"Chemin des Avelines",,,,way
+"Chemin des Bégonias",,,,way
+"Chemin des Bossons",,,,way
+"Chemin des Bouleaux",,,,way
+"Chemin des Boveresses",,,,way
+"Chemin des Bruyères",,,,way
+"Chemin des Cèdres",,,,way
+"Chemin des Celtes",,,,way
+"Chemin des Charmettes",,,,way
+"Chemin des Charmilles",,,,way
+"Chemin des Clochetons",,,,way
+"Chemin des Côtes de la Bourdonnette",,,,way
+"Chemin des Côtes-de-Montmoiret",,,,way
+"Chemin des Cottages",,,,way
+"Chemin des Coumenets",,,,way
+"Chemin des Croix-Rouges",,,,way
+"Chemin des Crottes",,,,way
+"Chemin des Cygnes",,,,way
+"Chemin des Délices",,,,way
+"Chemin des Deux-Ponts",,,,way
+"Chemin des Diablerets",,,,way
+"Chemin des Écoliers",,,,way
+"Chemin des Egralets",,,,way
+"Chemin des Epinettes",,,,way
+"Chemin des Esserts",,,,way
+"Chemin des Eterpeys",,,,way
+"Chemin des Falaises",,,,way
+"Chemin des Fauconnières",,,,way
+"Chemin des Faverges",,,,way
+"Chemin des Fleurettes",,,,way
+"Chemin des Fleurs",,,,way
+"Chemin des Fougères",,,,way
+"Chemin des Glycines",,,,way
+"Chemin des Grandes-Côtes",,,,way
+"Chemin des Grandes-Roches",,,,way
+"Chemin des Liaises",,,,way
+"Chemin des Libellules",,,,way
+"Chemin des Lilas",,,,way
+"Chemin des Losiardes",,,,way
+"Chemin des Lys",,,,way
+"Chemin des Magnolias",,,,way
+"Chemin des Matines",,,,way
+"Chemin des Mayoresses",,,,way
+"Chemin des Mésanges",,,,way
+"Chemin des Molliettes",,,,way
+"Chemin des Mouettes",,,,way
+"Chemin des Noisetiers",,,,way
+"Chemin des Paleyres",,,,way
+"Chemin des Pâquerettes",,,,way
+"Chemin des Pervenches",,,,way
+"Chemin des Pinsons",,,,way
+"Chemin des Plaines",,,,way
+"Chemin des Planchettes",,,,way
+"Chemin des Platanes",,,,way
+"Chemin des Pyramides",,,,way
+"Chemin des Retraites",,,,way
+"Chemin des Roches",,,,way
+"Chemin des Rosiers",,,,way
+"Chemin des Ruines-Romaines",,,,way
+"Chemin des Sablons",,,,way
+"Chemin des Sauges",,,,way
+"Chemin des Sorbiers",,,,way
+"Chemin des Tennis",,,,way
+"Chemin des Tonnelles",,,,way
+"Chemin des Trois-Rois",,,,way
+"Chemin des Vignes-d'Argent",,,,way
+"Chemin des Vuargnes",,,,way
+"Chemin du Bas-de-Lavaux",,,,way
+"Chemin du Bois de la Chandelar",,,,way
+"Chemin du Bois-Clos",,,,way
+"Chemin du Bois-Genoud",,,,way
+"Chemin du Bois-Gentil",,,,way
+"Chemin du Bois-de-Vaux",,,,way
+"Chemin du Bois-de-la-Fontaine",,,,way
+"Chemin du Boissy",,,,way
+"Chemin du Boisy",,,,way
+"Chemin du Boulard",,,,way
+"Chemin du Calvaire",,,,way
+"Chemin du Cap",,,,way
+"Chemin du Capelard",,,,way
+"Chemin du Cerisier",,,,way
+"Chemin du Chalet Saboton",,,,way
+"Chemin du Chalet de Praroman",,,,way
+"Chemin du Chalet-Mignon",,,,way
+"Chemin du Chalet-à-Marin",,,,way
+"Chemin du Chasseron",,,,way
+"Chemin du Closelet",,,,way
+"Chemin du Couchant",,,,way
+"Chemin du Creux Gadin",,,,way
+"Chemin du Devin",,,,way
+"Chemin du Flon-Morand",,,,way
+"Chemin du Frêne",,,,way
+"Chemin du Funiculaire",,,,way
+"Chemin du Furet",,,,way
+"Chemin du Grand-Bois",,,,way
+"Chemin du Grand-Praz",,,,way
+"Chemin du Grandchamp",,,,way
+"Chemin du Grillon",,,,way
+"Chemin du Languedoc",,,,way
+"Chemin du Levant",,,,way
+"Chemin du Liaudoz",,,,way
+"Chemin du Marronnier",,,,way
+"Chemin du Martinet",,,,way
+"Chemin du Moléson",,,,way
+"Chemin du Mollendruz",,,,way
+"Chemin du Mont-Tendre",,,,way
+"Chemin du Muguet",,,,way
+"Chemin du Mûrier",,,,way
+"Chemin du Muveran",,,,way
+"Chemin du Noirmont",,,,way
+"Chemin du Petit-Château",,,,way
+"Chemin du Petit-Flon",,,,way
+"Chemin du Point-du-Jour",,,,way
+"Chemin du Pont-Rouge",,,,way
+"Chemin du Pont-du-Diable",,,,way
+"Chemin du Praz-Buchilly",,,,way
+"Chemin du Praz-d'Eau",,,,way
+"Chemin du Presbytère",,,,way
+"Chemin du Raffort",,,,way
+"Chemin du Raidillon",,,,way
+"Chemin du Ravin",,,,way
+"Chemin du Reposoir",,,,way
+"Chemin du Réservoir",,,,way
+"Chemin du Riolet",,,,way
+"Chemin du Rionzi",,,,way
+"Chemin du Risoux",,,,way
+"Chemin du Salève",,,,way
+"Chemin du Stade",,,,way
+"Chemin du Suchet",,,,way
+"Chemin du Taulard",,,,way
+"Chemin du Trabandan",,,,way
+"Chemin du Treyblanc",,,,way
+"Chemin du Vanil",,,,way
+"Chemin du Village",,,,way
+"Digue de Vidy",,,,way
+"En Budron H",,,,way
+"Escalier de Bel-Air",,,,way
+"Escalier de l'Université",,,,way
+"Escaliers Marc-Louis-Arlaud",,,,way
+"Escaliers Rodolphe-de-Billens",,,,way
+"Escaliers de Bel-Air",,,,way
+"Escaliers de la Barre",,,,way
+"Escaliers des Grandes-Roches",,,,way
+"Escaliers des Savetiers",,,,way
+"Escaliers du Grand-Chêne",,,,way
+"Escaliers du Grand-Pont",,,,way
+"Escaliers du Marché",,,,way
+"Espace Jacques Rogge",,,,way
+Esplanade,,,,way
+"Esplanade des Cantons",,,,way
+"Esplanade des Cantons (Expo 64)",,,,way
+"Esplanade du Château",,,,way
+"Galeries Benjamin-Constant",,,,way
+"Galeries Saint-François",,,,way
+"Giratoire de Malley",,,,way
+Jardins-de-Prélaz,,,,way
+"Jetée d'Osches",,,,way
+"Jetée de la Compagnie",,,,way
+"Lausanne, Bourdonnette",,,,way
+"Le Grand-Chemin",,,,way
+"Le Sentier à Lucien",,,,way
+"Parc des Vignes-d'Argent",,,,way
+"Parcours Vita Lausanne-Chalet-à-Gobet",,,,way
+"Parcours Vita Lausanne-Vidy",,,,way
+"Passage Belle-Rose",,,,way
+"Passage François-Louis-Bocion",,,,way
+"Passage Jean-Muret",,,,way
+"Passage Mathias Mayor",,,,way
+"Passage Saint-François",,,,way
+"Passage Vincent-Perdonnet",,,,way
+"Passage de Montriond",,,,way
+"Passage de l'Aurore",,,,way
+"Passage de l'Entrepôt-Fédéral",,,,way
+"Passage de l'Hôtel de Ville",,,,way
+"Passage des Jumelles",,,,way
+"Passage des Saugettes",,,,way
+"Passage des Terreaux",,,,way
+"Passage du Liseron",,,,way
+"Passage du Pécos",,,,way
+"Passage du Simplon",,,,way
+"Passerelle Maillefer",,,,way
+"Passerelle du Grand-Pont",,,,way
+"Place Bel-Air",,,,way
+"Place Benjamin-Constant",,,,way
+"Place Centrale",,,,way
+"Place Chauderon",,,,relation
+"Place Grand-Saint-Jean",,,,way
+"Place Madeleine",,,,relation
+"Place Marc-Louis-Arlaud",,,,way
+"Place Pépinet",,,,way
+"Place René Auberjonois",,,,way
+"Place Saint-François",,,,way
+"Place Saint-Laurent",,,,way
+"Place de l'Europe",,,,way
+"Place de l'Ours",,,,way
+"Place de la Cathédrale",,,,relation
+"Place de la Fontaine-de-Cuivre",,,,relation
+"Place de la Gare",,,,way
+"Place de la Louve",,,,way
+"Place de la Navigation",,,,relation
+"Place de la Palud",,,,relation
+"Place de la Riponne",,,,relation
+"Place de la Sallaz",,,,way
+"Place du 14-Juin",,,,relation
+"Place du Général Henri-Guisan",,,,way
+"Place du Granit",,,,way
+"Place du Nord",,,,way
+"Place du Tunnel",,,,way
+"Place du Vallon",,,,way
+"Place du Vieux-Port",,,,relation
+"Placette Pré-du-Marché",,,,way
+"Placette du Tunnel",,,,way
+"Pont Charles-Bessières",,,,way
+"Pont Chauderon",,,,way
+"Promenade de Vidy",,,,way
+"Promenade de la Ficelle",,,,way
+"Promenade de la Gottettaz",,,,way
+"Promenade de la Solitude",,,,way
+"Promenade des Molasses",,,,way
+"Promenade du Boisy",,,,way
+"Quai Jean-Pascal-Delamuraz",,,,way
+"Quai Jurigoz",,,,way
+"Quai d'Ouchy",,,,way
+"Quai de Belgique",,,,way
+"Quai de la Nautique",,,,way
+"Quai des Chalands",,,,way
+"Quai des Savoyards",,,,way
+"Quai du Vent-Blanc",,,,way
+"Quartier de la Violette",,,,way
+"Rampe accès m2-Croissetes",,,,way
+"Rond-Point de la Maladière",,,,way
+"Route Aloys-Fauquez",,,,way
+"Route d'Epalinges",,,,way
+"Route d'Oron",,,,way
+"Route d'Yverdon",,,,way
+"Route de Bel-Air",,,,way
+"Route de Benenté",,,,way
+"Route de Berne",,,,way
+"Route de Cery",,,,way
+"Route de Chavannes",,,,relation
+"Route de Cojonnex",,,,way
+"Route de Lausanne",,,,way
+"Route de Marin",,,,way
+"Route de Mollie-Margot",,,,way
+"Route de Montblesson",,,,way
+"Route de Montheron",,,,way
+"Route de Neuchâtel",,,,relation
+"Route de Pierre Ozaire",,,,way
+"Route de Praz-Gilliard",,,,way
+"Route de Prilly",,,,way
+"Route de Renens",,,,way
+"Route de Romanel",,,,way
+"Route de Vidy",,,,way
+"Route de l'Abbaye",,,,way
+"Route de la Bérallaz",,,,way
+"Route de la Blécherette",,,,way
+"Route de la Chamberonne",,,,way
+"Route de la Charbonnière",,,,way
+"Route de la Claie-aux-Moines",,,,way
+"Route de la Clochatte",,,,way
+"Route de la Corniche",,,,way
+"Route de la Feuillère",,,,way
+"Route de la Grange-Neuve",,,,way
+"Route de la Maladière",,,,way
+"Route de la Pierre-à-Cambot",,,,way
+"Route de la Rama",,,,way
+"Route de la Râpe",,,,way
+"Route de la Salle des Fayards",,,,way
+"Route des Biolettes",,,,way
+"Route des Corbessières",,,,way
+"Route des Dragons",,,,way
+"Route des Martines",,,,way
+"Route des Paysans",,,,way
+"Route des Plaines-du-Loup",,,,way
+"Route des Planches",,,,way
+"Route des Saugealles",,,,way
+"Route du Bois de Vernand-Dessous",,,,way
+"Route du Bois de la Lancy",,,,way
+"Route du Bois-Genoud",,,,way
+"Route du Chalet Vieux",,,,way
+"Route du Chalet-Boverat",,,,way
+"Route du Chalet-à-Gobet",,,,way
+"Route du Chalet-des-Enfants",,,,way
+"Route du Châtelard",,,,way
+"Route du Golf",,,,way
+"Route du Jorat",,,,way
+"Route du Mont",,,,way
+"Route du Pavement",,,,way
+"Route du Signal",,,,way
+"Rue Adrien-Pichard",,,,way
+"Rue Beau-Séjour",,,,way
+"Rue Belle-Fontaine",,,,way
+"Rue Caroline",,,,way
+"Rue Centrale",,,,way
+"Rue Charles-Augustin-Sainte-Beuve",,,,way
+"Rue Charles-Monnard",,,,way
+"Rue Charles-Vuillermet",,,,way
+"Rue Chaucrau",,,,way
+"Rue Cheneau-de-Bourg",,,,way
+"Rue Cité-Derrière",,,,way
+"Rue Cité-Devant",,,,way
+"Rue Couchirard",,,,way
+"Rue Dr-César-Roux",,,,way
+"Rue Edouard Gibbon",,,,way
+"Rue Edouard-Payot",,,,way
+"Rue Etraz",,,,way
+"Rue Germaine-Ernst",,,,way
+"Rue Grand-Saint-Jean",,,,way
+"Rue Jean-Jacques-Cart",,,,way
+"Rue Jean-Louis-de-Bons",,,,way
+"Rue Jenny Enning",,,,way
+"Rue Louis-Auguste-Curtat",,,,way
+"Rue Madeleine",,,,way
+"Rue Marterey",,,,way
+"Rue Mathurin-Cordier",,,,way
+"Rue Mauborget",,,,way
+"Rue Mercerie",,,,way
+"Rue Neuve",,,,way
+"Rue Orient-Ville",,,,way
+"Rue Pépinet",,,,way
+"Rue Philippe-François-de-Langallerie",,,,way
+"Rue Pierre-Viret",,,,way
+"Rue Pré-du-Marché",,,,way
+"Rue Saint-Etienne",,,,way
+"Rue Saint-François",,,,way
+"Rue Saint-Laurent",,,,way
+"Rue Saint-Martin",,,,way
+"Rue Saint-Pierre",,,,way
+"Rue Saint-Roch",,,,way
+"Rue Traversière",,,,way
+"Rue Voltaire",,,,way
+"Rue William-Haldimand",,,,way
+"Rue de Bourg",,,,way
+"Rue de Sébeillon",,,,way
+"Rue de Strasbourg",,,,way
+"Rue de l'Académie",,,,way
+"Rue de l'Ale",,,,way
+"Rue de l'Ancienne-Douane",,,,way
+"Rue de l'Aurore",,,,way
+"Rue de l'Ecole-Supérieure",,,,way
+"Rue de l'Ecole-de-Commerce",,,,way
+"Rue de l'Église Anglaise",,,,way
+"Rue de l'Industrie",,,,way
+"Rue de la Barre",,,,way
+"Rue de la Borde",,,,way
+"Rue de la Grotte",,,,way
+"Rue de la Louve",,,,way
+"Rue de la Mèbre",,,,way
+"Rue de la Paix",,,,way
+"Rue de la Pontaise",,,,way
+"Rue de la Vigie",,,,way
+"Rue des Amis",,,,way
+"Rue des Côtes-de-Montbenon",,,,way
+"Rue des Crêtes",,,,way
+"Rue des Deux-Marchés",,,,way
+"Rue des Echelettes",,,,way
+"Rue des Fontenailles",,,,way
+"Rue des Glaciers",,,,way
+"Rue des Jardins",,,,way
+"Rue des Maisons-Familiales",,,,way
+"Rue des Oliviers",,,,way
+"Rue des Terreaux",,,,way
+"Rue du Bugnon",,,,way
+"Rue du Clos-de-Bulle",,,,way
+"Rue du Crêt",,,,way
+"Rue du Grand-Chêne",,,,way
+"Rue du Grand-Pont",,,,way
+"Rue du Grand-Pré",,,,way
+"Rue du Jura",,,,way
+"Rue du Lac",,,,way
+"Rue du Lion-d'Or",,,,relation
+"Rue du Liseron",,,,way
+"Rue du Maupas",,,,way
+"Rue du Midi",,,,way
+"Rue du Nord",,,,way
+"Rue du Petit-Beaulieu",,,,way
+"Rue du Petit-Chêne",,,,way
+"Rue du Petit-Rocher",,,,way
+"Rue du Petit-Saint-Jean",,,,way
+"Rue du Petit-Valentin",,,,way
+"Rue du Pont",,,,way
+"Rue du Port-Franc",,,,way
+"Rue du Rôtillon",,,,way
+"Rue du Simplon",,,,way
+"Rue du Tunnel",,,,way
+"Rue du Valentin",,,,way
+"Rue du Vallon",,,,way
+"Ruelle Grand-Saint-Jean",,,,way
+"Ruelle de Bourg",,,,way
+"Ruelle des Tanneurs",,,,way
+"Ruelle du Flon",,,,way
+"Ruelle du Grand-Pont",,,,way
+"Ruelle du Lapin-Vert",,,,way
+Saint-Roch,,,,way
+"Sentier Praz-Dom-Nicod",,,,way
+"Sentier des Colombes",,,,way
+"Sentier des Ruines-Romaines",,,,way
+"Sentier du Signal",,,,way
+"Terrasse Jean Monnet",,,,way
+"Tunnel Est Saint-François",,,,way
+"Tunnel Ouest Saint-François",,,,way
+"Tunnel de Chauderon",,,,way
+Vallée-de-la-Jeunesse,,,,way
+Vieux-Port,,,,way
+"Voie du Chariot",,,,way
+"Zwischengeschoss Place de l' Europe",,,,way
+parcoursvita,,,,way
+"route de Mauvernay",,,,way
+"route du Creux-",,,,way
