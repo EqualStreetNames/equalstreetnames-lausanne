@@ -1,45 +1,35 @@
 name,source,gender,wikidata,type
 "Avenue de Morges",wikidata,,Q69401,way
 "Avenue de la Gare",wikidata,,Q669678,way
+"Chemin du Chalet de Praroman",wikidata,,Q96338008,way
 "Chemin du Parc-de-Valency",wikidata,,Q86726637,way
+"Escaliers Rodolphe-de-Billens",wikidata,,Q96268247,way
 "Place de la Gare",wikidata,,Q669678,way
+"Route de la Pierre-à-Cambot",wikidata,,Q3387852,way
 "Rue de Genève",wikidata,,Q71,way
 "Rue de la Tour",wikidata,,Q16010656,way
 "Allée des Bacounis",,,,way
 "Allée du Bornan",,,,way
 "Avenue Agassiz",,,,way
-"Avenue André-Gindroz",,,,way
-"Avenue Auguste Tissot",,,,way
 "Avenue Beauregard",,,,way
 "Avenue Cécil",,,,way
-"Avenue Charles-Dickens",,,,way
-"Avenue Charles-Ferdinand-Ramuz",,,,way
 "Avenue Collonges",,,,way
-"Avenue Edouard-Rod",,,,way
 "Avenue Eglantine",,,,way
-"Avenue Emile-Henri-Jaques-Dalcroze",,,,way
 "Avenue Fantaisie",,,,way
 "Avenue Floréal",,,,way
 "Avenue Georgette",,,,way
-"Avenue Gustave-Doret",,,,way
-"Avenue Henri-Antoine de Crousaz",,,,way
-"Avenue Henri-Warnery",,,,way
 "Avenue Jean-Jacques Mercier",,,,way
 "Avenue Jolimont",,,,way
 "Avenue Juste-Olivier",,,,way
 "Avenue Louis-Vulliemin",,,,way
 "Avenue Mon-Repos",,,,way
 "Avenue Montagibert",,,,way
-"Avenue Pierre-Decker",,,,way
 "Avenue Pierre-Maurice Glayre",,,,way
 "Avenue Pierre-de-Coubertin",,,,way
 "Avenue Robert de Menthon",,,,way
 "Avenue Saint-Paul",,,,way
 "Avenue Sainte-Luce",,,,way
-"Avenue Victor-Ruffy",,,,way
 "Avenue Villamont",,,,way
-"Avenue Virgile-Rossel",,,,way
-"Avenue William-de-Charrière de Sévery",,,,way
 "Avenue d'Aoste",,,,way
 "Avenue d'Echallens",,,,way
 "Avenue d'Evian",,,,way
@@ -122,19 +112,9 @@ name,source,gender,wikidata,type
 "Boulevard de Grancy",,,,way
 "Boulevard de la Forêt",,,,way
 "Cap de Vaudaire",,,,way
-"Chemin Aimé-Steinlen",,,,way
-"Chemin Antoine-de-Chandieu",,,,way
-"Chemin Auguste-Pidou",,,,way
 "Chemin Beau-Site",,,,way
-"Chemin Benjamin-Dumur",,,,way
-"Chemin Charles-Gide",,,,way
-"Chemin Eugène-Grasset",,,,way
 "Chemin François-de-Lucinge",,,,way
-"Chemin Général-Charles-Jules-Guiguer-de-Prangins",,,,way
-"Chemin Guillaume de Pierrefleur",,,,way
-"Chemin Isabelle-de-Montolieu",,,,way
 "Chemin Jaques-Larguier des Bancels",,,,way
-"Chemin Louis-Boissonnet",,,,way
 "Chemin Messidor",,,,way
 "Chemin Praz-Lau",,,,way
 "Chemin Renou",,,,way
@@ -177,7 +157,6 @@ name,source,gender,wikidata,type
 "Chemin de Haute-Vue",,,,way
 "Chemin de La Vuachère",,,,way
 "Chemin de Longeraie",,,,way
-"Chemin de Louis Boissonnet",,,,way
 "Chemin de Maillefer",,,,way
 "Chemin de Malley",,,,way
 "Chemin de Marin",,,,way
@@ -194,7 +173,6 @@ name,source,gender,wikidata,type
 "Chemin de Passerose",,,,way
 "Chemin de Pierre Ozaire",,,,way
 "Chemin de Pierre-de-Plan",,,,way
-"Chemin de Pierrefleur",,,,way
 "Chemin de Pierreval",,,,way
 "Chemin de Praz-Berthoud",,,,way
 "Chemin de Praz-Buchilly",,,,way
@@ -242,7 +220,6 @@ name,source,gender,wikidata,type
 "Chemin de la Pécholettaz",,,,way
 "Chemin de la Pétause",,,,way
 "Chemin de la Petite-Source",,,,way
-"Chemin de la Pierre à Cambot",,,,way
 "Chemin de la Plaisante",,,,way
 "Chemin de la Planche-au-Comte",,,,way
 "Chemin de la Planche-aux-Oies",,,,way
@@ -341,7 +318,6 @@ name,source,gender,wikidata,type
 "Chemin du Capelard",,,,way
 "Chemin du Cerisier",,,,way
 "Chemin du Chalet Saboton",,,,way
-"Chemin du Chalet de Praroman",,,,way
 "Chemin du Chalet-Mignon",,,,way
 "Chemin du Chalet-à-Marin",,,,way
 "Chemin du Chasseron",,,,way
@@ -397,8 +373,6 @@ name,source,gender,wikidata,type
 "En Budron H",,,,way
 "Escalier de Bel-Air",,,,way
 "Escalier de l'Université",,,,way
-"Escaliers Marc-Louis-Arlaud",,,,way
-"Escaliers Rodolphe-de-Billens",,,,way
 "Escaliers de Bel-Air",,,,way
 "Escaliers de la Barre",,,,way
 "Escaliers des Grandes-Roches",,,,way
@@ -406,7 +380,6 @@ name,source,gender,wikidata,type
 "Escaliers du Grand-Chêne",,,,way
 "Escaliers du Grand-Pont",,,,way
 "Escaliers du Marché",,,,way
-"Espace Jacques Rogge",,,,way
 Esplanade,,,,way
 "Esplanade des Cantons",,,,way
 "Esplanade des Cantons (Expo 64)",,,,way
@@ -423,8 +396,6 @@ Jardins-de-Prélaz,,,,way
 "Parcours Vita Lausanne-Chalet-à-Gobet",,,,way
 "Parcours Vita Lausanne-Vidy",,,,way
 "Passage Belle-Rose",,,,way
-"Passage François-Louis-Bocion",,,,way
-"Passage Jean-Muret",,,,way
 "Passage Mathias Mayor",,,,way
 "Passage Saint-François",,,,way
 "Passage de Montriond",,,,way
@@ -444,9 +415,7 @@ Jardins-de-Prélaz,,,,way
 "Place Chauderon",,,,relation
 "Place Grand-Saint-Jean",,,,way
 "Place Madeleine",,,,relation
-"Place Marc-Louis-Arlaud",,,,way
 "Place Pépinet",,,,way
-"Place René Auberjonois",,,,way
 "Place Saint-François",,,,way
 "Place Saint-Laurent",,,,way
 "Place de l'Europe",,,,way
@@ -519,7 +488,7 @@ Jardins-de-Prélaz,,,,way
 "Route de la Feuillère",,,,way
 "Route de la Grange-Neuve",,,,way
 "Route de la Maladière",,,,way
-"Route de la Pierre-à-Cambot",,,,way
+"Route de la Moille Grise",,,,way
 "Route de la Rama",,,,way
 "Route de la Râpe",,,,way
 "Route de la Salle des Fayards",,,,way
@@ -555,7 +524,6 @@ Jardins-de-Prélaz,,,,way
 "Rue Cité-Derrière",,,,way
 "Rue Cité-Devant",,,,way
 "Rue Couchirard",,,,way
-"Rue Dr-César-Roux",,,,way
 "Rue Edouard-Payot",,,,way
 "Rue Etraz",,,,way
 "Rue Germaine-Ernst",,,,way
@@ -563,7 +531,6 @@ Jardins-de-Prélaz,,,,way
 "Rue Louis-Auguste-Curtat",,,,way
 "Rue Madeleine",,,,way
 "Rue Marterey",,,,way
-"Rue Mathurin-Cordier",,,,way
 "Rue Mauborget",,,,way
 "Rue Mercerie",,,,way
 "Rue Neuve",,,,way
@@ -579,7 +546,6 @@ Jardins-de-Prélaz,,,,way
 "Rue Saint-Pierre",,,,way
 "Rue Saint-Roch",,,,way
 "Rue Traversière",,,,way
-"Rue William-Haldimand",,,,way
 "Rue de Bourg",,,,way
 "Rue de Sébeillon",,,,way
 "Rue de Strasbourg",,,,way
