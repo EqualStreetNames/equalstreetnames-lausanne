@@ -1,44 +1,33 @@
 name,source,gender,wikidata,type
 "Avenue de Morges",wikidata,,Q69401,way
+"Avenue de la Gare",wikidata,,Q669678,way
 "Chemin du Parc-de-Valency",wikidata,,Q86726637,way
+"Place de la Gare",wikidata,,Q669678,way
 "Rue de Genève",wikidata,,Q71,way
 "Rue de la Tour",wikidata,,Q16010656,way
-"Allée Ernest-Ansermet",,,,way
 "Allée des Bacounis",,,,way
 "Allée du Bornan",,,,way
 "Avenue Agassiz",,,,way
 "Avenue André-Gindroz",,,,way
-"Avenue André-Schnetzler",,,,way
-"Avenue Antoine-Michel-Servan",,,,way
 "Avenue Auguste Tissot",,,,way
-"Avenue Auguste-Verdeil",,,,way
 "Avenue Beauregard",,,,way
-"Avenue Benjamin-Constant",,,,way
 "Avenue Cécil",,,,way
 "Avenue Charles-Dickens",,,,way
 "Avenue Charles-Ferdinand-Ramuz",,,,way
-"Avenue Charles-Secrétan",,,,way
 "Avenue Collonges",,,,way
-"Avenue Édouard-Dapples",,,,way
 "Avenue Edouard-Rod",,,,way
 "Avenue Eglantine",,,,way
 "Avenue Emile-Henri-Jaques-Dalcroze",,,,way
-"Avenue Eugène-Rambert",,,,way
 "Avenue Fantaisie",,,,way
 "Avenue Floréal",,,,way
-"Avenue Frédéric-César-de-La-Harpe",,,,way
 "Avenue Georgette",,,,way
 "Avenue Gustave-Doret",,,,way
 "Avenue Henri-Antoine de Crousaz",,,,way
 "Avenue Henri-Warnery",,,,way
 "Avenue Jean-Jacques Mercier",,,,way
 "Avenue Jolimont",,,,way
-"Avenue Jules-Gonin",,,,way
 "Avenue Juste-Olivier",,,,way
-"Avenue Louis-Ruchonnet",,,,way
 "Avenue Louis-Vulliemin",,,,way
-"Avenue Marc-Dufour",,,,way
-"Avenue Maria-Belgia",,,,way
 "Avenue Mon-Repos",,,,way
 "Avenue Montagibert",,,,way
 "Avenue Pierre-Decker",,,,way
@@ -50,7 +39,6 @@ name,source,gender,wikidata,type
 "Avenue Victor-Ruffy",,,,way
 "Avenue Villamont",,,,way
 "Avenue Virgile-Rossel",,,,way
-"Avenue William-Fraisse",,,,way
 "Avenue William-de-Charrière de Sévery",,,,way
 "Avenue d'Aoste",,,,way
 "Avenue d'Echallens",,,,way
@@ -94,7 +82,6 @@ name,source,gender,wikidata,type
 "Avenue de la Confrérie",,,,way
 "Avenue de la Dent-d'Oche",,,,way
 "Avenue de la Dôle",,,,way
-"Avenue de la Gare",,,,way
 "Avenue de la Rapille",,,,way
 "Avenue de la Rasude",,,,way
 "Avenue de la Sallaz",,,,way
@@ -141,7 +128,6 @@ name,source,gender,wikidata,type
 "Chemin Beau-Site",,,,way
 "Chemin Benjamin-Dumur",,,,way
 "Chemin Charles-Gide",,,,way
-"Chemin Edouard Sandoz",,,,way
 "Chemin Eugène-Grasset",,,,way
 "Chemin François-de-Lucinge",,,,way
 "Chemin Général-Charles-Jules-Guiguer-de-Prangins",,,,way
@@ -425,7 +411,6 @@ Esplanade,,,,way
 "Esplanade des Cantons",,,,way
 "Esplanade des Cantons (Expo 64)",,,,way
 "Esplanade du Château",,,,way
-"Galeries Benjamin-Constant",,,,way
 "Galeries Saint-François",,,,way
 "Giratoire de Malley",,,,way
 Jardins-de-Prélaz,,,,way
@@ -442,7 +427,6 @@ Jardins-de-Prélaz,,,,way
 "Passage Jean-Muret",,,,way
 "Passage Mathias Mayor",,,,way
 "Passage Saint-François",,,,way
-"Passage Vincent-Perdonnet",,,,way
 "Passage de Montriond",,,,way
 "Passage de l'Aurore",,,,way
 "Passage de l'Entrepôt-Fédéral",,,,way
@@ -456,7 +440,6 @@ Jardins-de-Prélaz,,,,way
 "Passerelle Maillefer",,,,way
 "Passerelle du Grand-Pont",,,,way
 "Place Bel-Air",,,,way
-"Place Benjamin-Constant",,,,way
 "Place Centrale",,,,way
 "Place Chauderon",,,,relation
 "Place Grand-Saint-Jean",,,,way
@@ -470,7 +453,6 @@ Jardins-de-Prélaz,,,,way
 "Place de l'Ours",,,,way
 "Place de la Cathédrale",,,,relation
 "Place de la Fontaine-de-Cuivre",,,,relation
-"Place de la Gare",,,,way
 "Place de la Louve",,,,way
 "Place de la Navigation",,,,relation
 "Place de la Palud",,,,relation
@@ -567,8 +549,6 @@ Jardins-de-Prélaz,,,,way
 "Rue Belle-Fontaine",,,,way
 "Rue Caroline",,,,way
 "Rue Centrale",,,,way
-"Rue Charles-Augustin-Sainte-Beuve",,,,way
-"Rue Charles-Monnard",,,,way
 "Rue Charles-Vuillermet",,,,way
 "Rue Chaucrau",,,,way
 "Rue Cheneau-de-Bourg",,,,way
@@ -576,14 +556,10 @@ Jardins-de-Prélaz,,,,way
 "Rue Cité-Devant",,,,way
 "Rue Couchirard",,,,way
 "Rue Dr-César-Roux",,,,way
-"Rue Edouard Gibbon",,,,way
 "Rue Edouard-Payot",,,,way
 "Rue Etraz",,,,way
 "Rue Germaine-Ernst",,,,way
 "Rue Grand-Saint-Jean",,,,way
-"Rue Jean-Jacques-Cart",,,,way
-"Rue Jean-Louis-de-Bons",,,,way
-"Rue Jenny Enning",,,,way
 "Rue Louis-Auguste-Curtat",,,,way
 "Rue Madeleine",,,,way
 "Rue Marterey",,,,way
@@ -603,7 +579,6 @@ Jardins-de-Prélaz,,,,way
 "Rue Saint-Pierre",,,,way
 "Rue Saint-Roch",,,,way
 "Rue Traversière",,,,way
-"Rue Voltaire",,,,way
 "Rue William-Haldimand",,,,way
 "Rue de Bourg",,,,way
 "Rue de Sébeillon",,,,way

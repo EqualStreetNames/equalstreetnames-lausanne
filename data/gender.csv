@@ -1,8 +1,33 @@
 name,source,gender,wikidata,type
+"Avenue Maria-Belgia",wikidata,F,Q3290884,way
+"Rue Jenny Enning",wikidata,F,Q78061488,way
+"Allée Ernest-Ansermet",wikidata,M,Q123603,way
 "Avenue Alexandre-Vinet",wikidata,M,Q124065,way
+"Avenue André-Schnetzler",wikidata,M,Q2652723,way
 "Avenue Antoine-Henri Jomini",wikidata,M,Q115652,way
+"Avenue Antoine-Michel-Servan",wikidata,M,Q2684623,way
+"Avenue Auguste-Verdeil",wikidata,M,Q2871431,way
+"Avenue Benjamin-Constant",wikidata,M,Q123089,way
+"Avenue Charles-Secrétan",wikidata,M,Q2027982,way
+"Avenue Édouard-Dapples",wikidata,M,Q118010,way
+"Avenue Eugène-Rambert",wikidata,M,Q3060130,way
 "Avenue Frédéric Recordon",wikidata,M,Q16022671,way
+"Avenue Frédéric-César-de-La-Harpe",wikidata,M,Q116280,way
 "Avenue Henri Druey",wikidata,M,Q558071,way
 "Avenue Jean-Daniel-Abram Davel",wikidata,M,Q116583,way
+"Avenue Jules-Gonin",wikidata,M,Q3188627,way
+"Avenue Louis-Ruchonnet",wikidata,M,Q662039,way
+"Avenue Marc-Dufour",wikidata,M,Q121859,way
+"Avenue William-Fraisse",wikidata,M,Q3568618,way
+"Chemin Edouard Sandoz",wikidata,M,Q1287609,way
 "Chemin Jean-Jacques Porchat",wikidata,M,Q18115746,way
+"Galeries Benjamin-Constant",wikidata,M,Q123089,way
+"Passage Vincent-Perdonnet",wikidata,M,Q1683791,way
+"Place Benjamin-Constant",wikidata,M,Q123089,way
+"Rue Charles-Augustin-Sainte-Beuve",wikidata,M,Q1063392,way
+"Rue Charles-Monnard",wikidata,M,Q121111,way
+"Rue Edouard Gibbon",wikidata,M,Q161841,way
+"Rue Jean-Jacques-Cart",wikidata,M,Q3166205,way
 "Rue Jean-Louis-Galliard",wikidata,M,Q3166776,way
+"Rue Jean-Louis-de-Bons",wikidata,M,Q2367125,way
+"Rue Voltaire",wikidata,M,Q9068,way
