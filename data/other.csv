@@ -1,16 +1,35 @@
 name,source,gender,wikidata,type
+"Avenue d'Echallens",wikidata,,Q70714,way
+"Avenue de France",wikidata,,Q142,way
+"Avenue de Montbenon",wikidata,,Q3058449,way
 "Avenue de Morges",wikidata,,Q69401,way
 "Avenue de la Gare",wikidata,,Q669678,way
-"Chemin du Chalet de Praroman",wikidata,,Q96338008,way
+"Chemin de La Vuachère",wikidata,,Q693050,way
+"Chemin de la Vuachère",wikidata,,Q693050,way
+"Chemin des Diablerets",wikidata,,Q15139,way
 "Chemin du Parc-de-Valency",wikidata,,Q86726637,way
-"Escaliers Rodolphe-de-Billens",wikidata,,Q96268247,way
+"Escaliers du Grand-Pont",wikidata,,Q682024,way
+"Esplanade du Château",wikidata,,Q688912,way
+"Galeries Saint-François",wikidata,,Q3586117,way
+"Passage Saint-François",wikidata,,Q3586117,way
+"Passerelle du Grand-Pont",wikidata,,Q682024,way
+"Place Saint-François",wikidata,,Q3586117,way
+"Place de la Cathédrale",wikidata,,Q669544,relation
 "Place de la Gare",wikidata,,Q669678,way
+"Route de Mollie-Margot",wikidata,,Q3319599,way
+"Route de Neuchâtel",wikidata,,Q69345,relation
 "Route de la Pierre-à-Cambot",wikidata,,Q3387852,way
+"Rue Saint-François",wikidata,,Q3586117,way
 "Rue de Genève",wikidata,,Q71,way
+"Rue de Strasbourg",wikidata,,Q6602,way
 "Rue de la Tour",wikidata,,Q16010656,way
+"Rue des Côtes-de-Montbenon",wikidata,,Q3058449,way
+"Rue du Grand-Pont",wikidata,,Q682024,way
+"Ruelle du Grand-Pont",wikidata,,Q682024,way
+"Tunnel Est Saint-François",wikidata,,Q3586117,way
+"Tunnel Ouest Saint-François",wikidata,,Q3586117,way
 "Allée des Bacounis",,,,way
 "Allée du Bornan",,,,way
-"Avenue Agassiz",,,,way
 "Avenue Beauregard",,,,way
 "Avenue Cécil",,,,way
 "Avenue Collonges",,,,way
@@ -18,9 +37,7 @@ name,source,gender,wikidata,type
 "Avenue Fantaisie",,,,way
 "Avenue Floréal",,,,way
 "Avenue Georgette",,,,way
-"Avenue Jean-Jacques Mercier",,,,way
 "Avenue Jolimont",,,,way
-"Avenue Juste-Olivier",,,,way
 "Avenue Louis-Vulliemin",,,,way
 "Avenue Mon-Repos",,,,way
 "Avenue Montagibert",,,,way
@@ -31,7 +48,6 @@ name,source,gender,wikidata,type
 "Avenue Sainte-Luce",,,,way
 "Avenue Villamont",,,,way
 "Avenue d'Aoste",,,,way
-"Avenue d'Echallens",,,,way
 "Avenue d'Evian",,,,way
 "Avenue d'Ouchy",,,,way
 "Avenue d'Yverdon",,,,way
@@ -41,14 +57,12 @@ name,source,gender,wikidata,type
 "Avenue de Chailly",,,,way
 "Avenue de Cour",,,,way
 "Avenue de Florimont",,,,way
-"Avenue de France",,,,way
 "Avenue de Gratta-Paille",,,,way
 "Avenue de Jaman",,,,way
 "Avenue de Jurigoz",,,,way
 "Avenue de Longemalle",,,,way
 "Avenue de Milan",,,,way
 "Avenue de Mon-Loisir",,,,way
-"Avenue de Montbenon",,,,way
 "Avenue de Montchoisi",,,,way
 "Avenue de Montoie",,,,way
 "Avenue de Provence",,,,way
@@ -155,7 +169,6 @@ name,source,gender,wikidata,type
 "Chemin de Grésy",,,,way
 "Chemin de Haute-Brise",,,,way
 "Chemin de Haute-Vue",,,,way
-"Chemin de La Vuachère",,,,way
 "Chemin de Longeraie",,,,way
 "Chemin de Maillefer",,,,way
 "Chemin de Malley",,,,way
@@ -229,7 +242,6 @@ name,source,gender,wikidata,type
 "Chemin de la Suettaz",,,,way
 "Chemin de la Tour-Grise",,,,way
 "Chemin de la Vallombreuse",,,,way
-"Chemin de la Vuachère",,,,way
 "Chemin de la Vulliettaz",,,,way
 "Chemin de la Vulliette",,,,way
 "Chemin des Abeilles",,,,way
@@ -256,7 +268,6 @@ name,source,gender,wikidata,type
 "Chemin des Cygnes",,,,way
 "Chemin des Délices",,,,way
 "Chemin des Deux-Ponts",,,,way
-"Chemin des Diablerets",,,,way
 "Chemin des Écoliers",,,,way
 "Chemin des Egralets",,,,way
 "Chemin des Epinettes",,,,way
@@ -318,6 +329,7 @@ name,source,gender,wikidata,type
 "Chemin du Capelard",,,,way
 "Chemin du Cerisier",,,,way
 "Chemin du Chalet Saboton",,,,way
+"Chemin du Chalet de Praroman",,,,way
 "Chemin du Chalet-Mignon",,,,way
 "Chemin du Chalet-à-Marin",,,,way
 "Chemin du Chasseron",,,,way
@@ -378,13 +390,10 @@ name,source,gender,wikidata,type
 "Escaliers des Grandes-Roches",,,,way
 "Escaliers des Savetiers",,,,way
 "Escaliers du Grand-Chêne",,,,way
-"Escaliers du Grand-Pont",,,,way
 "Escaliers du Marché",,,,way
 Esplanade,,,,way
 "Esplanade des Cantons",,,,way
 "Esplanade des Cantons (Expo 64)",,,,way
-"Esplanade du Château",,,,way
-"Galeries Saint-François",,,,way
 "Giratoire de Malley",,,,way
 Jardins-de-Prélaz,,,,way
 "Jetée d'Osches",,,,way
@@ -396,8 +405,6 @@ Jardins-de-Prélaz,,,,way
 "Parcours Vita Lausanne-Chalet-à-Gobet",,,,way
 "Parcours Vita Lausanne-Vidy",,,,way
 "Passage Belle-Rose",,,,way
-"Passage Mathias Mayor",,,,way
-"Passage Saint-François",,,,way
 "Passage de Montriond",,,,way
 "Passage de l'Aurore",,,,way
 "Passage de l'Entrepôt-Fédéral",,,,way
@@ -409,18 +416,15 @@ Jardins-de-Prélaz,,,,way
 "Passage du Pécos",,,,way
 "Passage du Simplon",,,,way
 "Passerelle Maillefer",,,,way
-"Passerelle du Grand-Pont",,,,way
 "Place Bel-Air",,,,way
 "Place Centrale",,,,way
 "Place Chauderon",,,,relation
 "Place Grand-Saint-Jean",,,,way
 "Place Madeleine",,,,relation
 "Place Pépinet",,,,way
-"Place Saint-François",,,,way
 "Place Saint-Laurent",,,,way
 "Place de l'Europe",,,,way
 "Place de l'Ours",,,,way
-"Place de la Cathédrale",,,,relation
 "Place de la Fontaine-de-Cuivre",,,,relation
 "Place de la Louve",,,,way
 "Place de la Navigation",,,,relation
@@ -428,7 +432,6 @@ Jardins-de-Prélaz,,,,way
 "Place de la Riponne",,,,relation
 "Place de la Sallaz",,,,way
 "Place du 14-Juin",,,,relation
-"Place du Général Henri-Guisan",,,,way
 "Place du Granit",,,,way
 "Place du Nord",,,,way
 "Place du Tunnel",,,,way
@@ -436,7 +439,6 @@ Jardins-de-Prélaz,,,,way
 "Place du Vieux-Port",,,,relation
 "Placette Pré-du-Marché",,,,way
 "Placette du Tunnel",,,,way
-"Pont Charles-Bessières",,,,way
 "Pont Chauderon",,,,way
 "Promenade de Vidy",,,,way
 "Promenade de la Ficelle",,,,way
@@ -444,7 +446,6 @@ Jardins-de-Prélaz,,,,way
 "Promenade de la Solitude",,,,way
 "Promenade des Molasses",,,,way
 "Promenade du Boisy",,,,way
-"Quai Jean-Pascal-Delamuraz",,,,way
 "Quai Jurigoz",,,,way
 "Quai d'Ouchy",,,,way
 "Quai de Belgique",,,,way
@@ -455,7 +456,6 @@ Jardins-de-Prélaz,,,,way
 "Quartier de la Violette",,,,way
 "Rampe accès m2-Croissetes",,,,way
 "Rond-Point de la Maladière",,,,way
-"Route Aloys-Fauquez",,,,way
 "Route d'Epalinges",,,,way
 "Route d'Oron",,,,way
 "Route d'Yverdon",,,,way
@@ -467,10 +467,8 @@ Jardins-de-Prélaz,,,,way
 "Route de Cojonnex",,,,way
 "Route de Lausanne",,,,way
 "Route de Marin",,,,way
-"Route de Mollie-Margot",,,,way
 "Route de Montblesson",,,,way
 "Route de Montheron",,,,way
-"Route de Neuchâtel",,,,relation
 "Route de Pierre Ozaire",,,,way
 "Route de Praz-Gilliard",,,,way
 "Route de Prilly",,,,way
@@ -513,12 +511,10 @@ Jardins-de-Prélaz,,,,way
 "Route du Mont",,,,way
 "Route du Pavement",,,,way
 "Route du Signal",,,,way
-"Rue Adrien-Pichard",,,,way
 "Rue Beau-Séjour",,,,way
 "Rue Belle-Fontaine",,,,way
 "Rue Caroline",,,,way
 "Rue Centrale",,,,way
-"Rue Charles-Vuillermet",,,,way
 "Rue Chaucrau",,,,way
 "Rue Cheneau-de-Bourg",,,,way
 "Rue Cité-Derrière",,,,way
@@ -526,9 +522,7 @@ Jardins-de-Prélaz,,,,way
 "Rue Couchirard",,,,way
 "Rue Edouard-Payot",,,,way
 "Rue Etraz",,,,way
-"Rue Germaine-Ernst",,,,way
 "Rue Grand-Saint-Jean",,,,way
-"Rue Louis-Auguste-Curtat",,,,way
 "Rue Madeleine",,,,way
 "Rue Marterey",,,,way
 "Rue Mauborget",,,,way
@@ -536,11 +530,8 @@ Jardins-de-Prélaz,,,,way
 "Rue Neuve",,,,way
 "Rue Orient-Ville",,,,way
 "Rue Pépinet",,,,way
-"Rue Philippe-François-de-Langallerie",,,,way
-"Rue Pierre-Viret",,,,way
 "Rue Pré-du-Marché",,,,way
 "Rue Saint-Etienne",,,,way
-"Rue Saint-François",,,,way
 "Rue Saint-Laurent",,,,way
 "Rue Saint-Martin",,,,way
 "Rue Saint-Pierre",,,,way
@@ -548,7 +539,6 @@ Jardins-de-Prélaz,,,,way
 "Rue Traversière",,,,way
 "Rue de Bourg",,,,way
 "Rue de Sébeillon",,,,way
-"Rue de Strasbourg",,,,way
 "Rue de l'Académie",,,,way
 "Rue de l'Ale",,,,way
 "Rue de l'Ancienne-Douane",,,,way
@@ -566,7 +556,6 @@ Jardins-de-Prélaz,,,,way
 "Rue de la Pontaise",,,,way
 "Rue de la Vigie",,,,way
 "Rue des Amis",,,,way
-"Rue des Côtes-de-Montbenon",,,,way
 "Rue des Crêtes",,,,way
 "Rue des Deux-Marchés",,,,way
 "Rue des Echelettes",,,,way
@@ -580,7 +569,6 @@ Jardins-de-Prélaz,,,,way
 "Rue du Clos-de-Bulle",,,,way
 "Rue du Crêt",,,,way
 "Rue du Grand-Chêne",,,,way
-"Rue du Grand-Pont",,,,way
 "Rue du Grand-Pré",,,,way
 "Rue du Jura",,,,way
 "Rue du Lac",,,,way
@@ -605,16 +593,11 @@ Jardins-de-Prélaz,,,,way
 "Ruelle de Bourg",,,,way
 "Ruelle des Tanneurs",,,,way
 "Ruelle du Flon",,,,way
-"Ruelle du Grand-Pont",,,,way
 "Ruelle du Lapin-Vert",,,,way
-Saint-Roch,,,,way
 "Sentier Praz-Dom-Nicod",,,,way
 "Sentier des Colombes",,,,way
 "Sentier des Ruines-Romaines",,,,way
 "Sentier du Signal",,,,way
-"Terrasse Jean Monnet",,,,way
-"Tunnel Est Saint-François",,,,way
-"Tunnel Ouest Saint-François",,,,way
 "Tunnel de Chauderon",,,,way
 Vallée-de-la-Jeunesse,,,,way
 Vieux-Port,,,,way

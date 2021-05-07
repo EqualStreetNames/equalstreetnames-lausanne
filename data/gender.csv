@@ -1,8 +1,10 @@
 name,source,gender,wikidata,type
 "Avenue Maria-Belgia",wikidata,F,Q3290884,way
 "Chemin Isabelle-de-Montolieu",wikidata,F,Q3155078,way
+"Rue Germaine-Ernst",wikidata,F,Q42529679,way
 "Rue Jenny Enning",wikidata,F,Q78061488,way
 "Allée Ernest-Ansermet",wikidata,M,Q123603,way
+"Avenue Agassiz",wikidata,M,Q122972,way
 "Avenue Alexandre-Vinet",wikidata,M,Q124065,way
 "Avenue André-Gindroz",wikidata,M,Q15621801,way
 "Avenue André-Schnetzler",wikidata,M,Q2652723,way
@@ -25,7 +27,9 @@ name,source,gender,wikidata,type
 "Avenue Henri-Antoine de Crousaz",wikidata,M,Q106713756,way
 "Avenue Henri-Warnery",wikidata,M,Q3132174,way
 "Avenue Jean-Daniel-Abram Davel",wikidata,M,Q116583,way
+"Avenue Jean-Jacques Mercier",wikidata,M,Q3166352,way
 "Avenue Jules-Gonin",wikidata,M,Q3188627,way
+"Avenue Juste-Olivier",wikidata,M,Q3190323,way
 "Avenue Louis-Ruchonnet",wikidata,M,Q662039,way
 "Avenue Marc-Dufour",wikidata,M,Q121859,way
 "Avenue Pierre-Decker",wikidata,M,Q3384661,way
@@ -45,21 +49,33 @@ name,source,gender,wikidata,type
 "Chemin Louis-Boissonnet",wikidata,M,Q18214166,way
 "Chemin de Pierrefleur",wikidata,M,Q3120419,way
 "Escaliers Marc-Louis-Arlaud",wikidata,M,Q3287697,way
+"Escaliers Rodolphe-de-Billens",wikidata,M,Q96268247,way
 "Espace Jacques Rogge",wikidata,M,Q182609,way
 "Galeries Benjamin-Constant",wikidata,M,Q123089,way
 "Passage François-Louis-Bocion",wikidata,M,Q672079,way
 "Passage Jean-Muret",wikidata,M,Q3173650,way
+"Passage Mathias Mayor",wikidata,M,Q3298584,way
 "Passage Vincent-Perdonnet",wikidata,M,Q1683791,way
 "Place Benjamin-Constant",wikidata,M,Q123089,way
 "Place Marc-Louis-Arlaud",wikidata,M,Q3287697,way
 "Place René Auberjonois",wikidata,M,Q683105,way
+"Place du Général Henri-Guisan",wikidata,M,Q123497,way
+"Pont Charles-Bessières",wikidata,M,Q2958546,way
+"Quai Jean-Pascal-Delamuraz",wikidata,M,Q115540,way
+"Route Aloys-Fauquez",wikidata,M,Q17305565,way
+"Rue Adrien-Pichard",wikidata,M,Q377138,way
 "Rue Charles-Augustin-Sainte-Beuve",wikidata,M,Q1063392,way
 "Rue Charles-Monnard",wikidata,M,Q121111,way
+"Rue Charles-Vuillermet",wikidata,M,Q2960404,way
 "Rue Dr-César-Roux",wikidata,M,Q118027,way
 "Rue Edouard Gibbon",wikidata,M,Q161841,way
 "Rue Jean-Jacques-Cart",wikidata,M,Q3166205,way
 "Rue Jean-Louis-Galliard",wikidata,M,Q3166776,way
 "Rue Jean-Louis-de-Bons",wikidata,M,Q2367125,way
+"Rue Louis-Auguste-Curtat",wikidata,M,Q3260365,way
 "Rue Mathurin-Cordier",wikidata,M,Q950840,way
+"Rue Philippe-François-de-Langallerie",wikidata,M,Q106719386,way
+"Rue Pierre-Viret",wikidata,M,Q123337,way
 "Rue Voltaire",wikidata,M,Q9068,way
 "Rue William-Haldimand",wikidata,M,Q84034,way
+"Terrasse Jean Monnet",wikidata,M,Q159700,way
