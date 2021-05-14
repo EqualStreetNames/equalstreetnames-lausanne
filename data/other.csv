@@ -1,9 +1,14 @@
 name,source,gender,wikidata,type
+"Allée des Bacounis",wikidata,,Q106744564,way
 "Avenue d'Echallens",wikidata,,Q70714,way
+"Avenue d'Ouchy",wikidata,,Q870499,way
 "Avenue de France",wikidata,,Q142,way
 "Avenue de Montbenon",wikidata,,Q3058449,way
 "Avenue de Morges",wikidata,,Q69401,way
 "Avenue de la Gare",wikidata,,Q669678,way
+"Avenue de la Tour Haldimand",wikidata,,Q195496,way
+"Avenue du Mont-Blanc",wikidata,,Q583,way
+"Cap de Vaudaire",wikidata,,Q3555050,way
 "Chemin de La Vuachère",wikidata,,Q693050,way
 "Chemin de la Vuachère",wikidata,,Q693050,way
 "Chemin des Diablerets",wikidata,,Q15139,way
@@ -16,6 +21,10 @@ name,source,gender,wikidata,type
 "Place Saint-François",wikidata,,Q3586117,way
 "Place de la Cathédrale",wikidata,,Q669544,relation
 "Place de la Gare",wikidata,,Q669678,way
+"Place du Tunnel",wikidata,,Q86732482,way
+"Placette du Tunnel",wikidata,,Q86732482,way
+"Quai d'Ouchy",wikidata,,Q870499,way
+"Quai de Belgique",wikidata,,Q31,way
 "Route de Mollie-Margot",wikidata,,Q3319599,way
 "Route de Neuchâtel",wikidata,,Q69345,relation
 "Route de la Pierre-à-Cambot",wikidata,,Q3387852,way
@@ -25,10 +34,10 @@ name,source,gender,wikidata,type
 "Rue de la Tour",wikidata,,Q16010656,way
 "Rue des Côtes-de-Montbenon",wikidata,,Q3058449,way
 "Rue du Grand-Pont",wikidata,,Q682024,way
+"Rue du Tunnel",wikidata,,Q86732482,way
 "Ruelle du Grand-Pont",wikidata,,Q682024,way
 "Tunnel Est Saint-François",wikidata,,Q3586117,way
 "Tunnel Ouest Saint-François",wikidata,,Q3586117,way
-"Allée des Bacounis",,,,way
 "Allée du Bornan",,,,way
 "Avenue Beauregard",,,,way
 "Avenue Cécil",,,,way
@@ -38,7 +47,6 @@ name,source,gender,wikidata,type
 "Avenue Floréal",,,,way
 "Avenue Georgette",,,,way
 "Avenue Jolimont",,,,way
-"Avenue Louis-Vulliemin",,,,way
 "Avenue Mon-Repos",,,,way
 "Avenue Montagibert",,,,way
 "Avenue Pierre-Maurice Glayre",,,,way
@@ -49,7 +57,6 @@ name,source,gender,wikidata,type
 "Avenue Villamont",,,,way
 "Avenue d'Aoste",,,,way
 "Avenue d'Evian",,,,way
-"Avenue d'Ouchy",,,,way
 "Avenue d'Yverdon",,,,way
 "Avenue de Beaulieu",,,,way
 "Avenue de Beaumont",,,,way
@@ -89,7 +96,6 @@ name,source,gender,wikidata,type
 "Avenue de la Rapille",,,,way
 "Avenue de la Rasude",,,,way
 "Avenue de la Sallaz",,,,way
-"Avenue de la Tour Haldimand",,,,way
 "Avenue de la Vallombreuse",,,,way
 "Avenue de la Vallonnette",,,,way
 "Avenue des Acacias",,,,way
@@ -113,7 +119,6 @@ name,source,gender,wikidata,type
 "Avenue du Grammont",,,,way
 "Avenue du Grey",,,,way
 "Avenue du Léman",,,,way
-"Avenue du Mont-Blanc",,,,way
 "Avenue du Mont-d'Or",,,,way
 "Avenue du Parc-de-la-Rouvraie",,,,way
 "Avenue du Rond-Point",,,,way
@@ -125,7 +130,6 @@ name,source,gender,wikidata,type
 "Avenue du Vingt-Quatre-Janvier",,,,way
 "Boulevard de Grancy",,,,way
 "Boulevard de la Forêt",,,,way
-"Cap de Vaudaire",,,,way
 "Chemin Beau-Site",,,,way
 "Chemin François-de-Lucinge",,,,way
 "Chemin Jaques-Larguier des Bancels",,,,way
@@ -422,7 +426,6 @@ Jardins-de-Prélaz,,,,way
 "Place Grand-Saint-Jean",,,,way
 "Place Madeleine",,,,relation
 "Place Pépinet",,,,way
-"Place Saint-Laurent",,,,way
 "Place de l'Europe",,,,way
 "Place de l'Ours",,,,way
 "Place de la Fontaine-de-Cuivre",,,,relation
@@ -434,11 +437,9 @@ Jardins-de-Prélaz,,,,way
 "Place du 14-Juin",,,,relation
 "Place du Granit",,,,way
 "Place du Nord",,,,way
-"Place du Tunnel",,,,way
 "Place du Vallon",,,,way
 "Place du Vieux-Port",,,,relation
 "Placette Pré-du-Marché",,,,way
-"Placette du Tunnel",,,,way
 "Pont Chauderon",,,,way
 "Promenade de Vidy",,,,way
 "Promenade de la Ficelle",,,,way
@@ -447,14 +448,11 @@ Jardins-de-Prélaz,,,,way
 "Promenade des Molasses",,,,way
 "Promenade du Boisy",,,,way
 "Quai Jurigoz",,,,way
-"Quai d'Ouchy",,,,way
-"Quai de Belgique",,,,way
 "Quai de la Nautique",,,,way
 "Quai des Chalands",,,,way
 "Quai des Savoyards",,,,way
 "Quai du Vent-Blanc",,,,way
 "Quartier de la Violette",,,,way
-"Rampe accès m2-Croissetes",,,,way
 "Rond-Point de la Maladière",,,,way
 "Route d'Epalinges",,,,way
 "Route d'Oron",,,,way
@@ -586,7 +584,6 @@ Jardins-de-Prélaz,,,,way
 "Rue du Port-Franc",,,,way
 "Rue du Rôtillon",,,,way
 "Rue du Simplon",,,,way
-"Rue du Tunnel",,,,way
 "Rue du Valentin",,,,way
 "Rue du Vallon",,,,way
 "Ruelle Grand-Saint-Jean",,,,way
