@@ -1,16 +1,22 @@
 name,source,gender,wikidata,type
 "Allée des Bacounis",wikidata,,Q106744564,way
+"Avenue Saint-Paul",wikidata,,Q55382251,way
 "Avenue d'Echallens",wikidata,,Q70714,way
 "Avenue d'Ouchy",wikidata,,Q870499,way
+"Avenue d'Yverdon",wikidata,,Q63946,way
 "Avenue de France",wikidata,,Q142,way
 "Avenue de Montbenon",wikidata,,Q3058449,way
 "Avenue de Morges",wikidata,,Q69401,way
 "Avenue de la Gare",wikidata,,Q669678,way
 "Avenue de la Tour Haldimand",wikidata,,Q195496,way
+"Avenue du Chablais",wikidata,,Q869650,way
 "Avenue du Mont-Blanc",wikidata,,Q583,way
 "Cap de Vaudaire",wikidata,,Q3555050,way
 "Chemin de La Vuachère",wikidata,,Q693050,way
+"Chemin de Renens",wikidata,,Q69745,way
+"Chemin de l'Usine-à-Gaz",wikidata,,Q56301875,way
 "Chemin de la Vuachère",wikidata,,Q693050,way
+"Chemin des Aubépines",wikidata,,Q132557,way
 "Chemin des Diablerets",wikidata,,Q15139,way
 "Chemin du Parc-de-Valency",wikidata,,Q86726637,way
 "Escaliers du Grand-Pont",wikidata,,Q682024,way
@@ -27,6 +33,7 @@ name,source,gender,wikidata,type
 "Quai de Belgique",wikidata,,Q31,way
 "Route de Mollie-Margot",wikidata,,Q3319599,way
 "Route de Neuchâtel",wikidata,,Q69345,relation
+"Route de Renens",wikidata,,Q69745,way
 "Route de la Pierre-à-Cambot",wikidata,,Q3387852,way
 "Rue Saint-François",wikidata,,Q3586117,way
 "Rue de Genève",wikidata,,Q71,way
@@ -49,15 +56,12 @@ name,source,gender,wikidata,type
 "Avenue Jolimont",,,,way
 "Avenue Mon-Repos",,,,way
 "Avenue Montagibert",,,,way
-"Avenue Pierre-Maurice Glayre",,,,way
 "Avenue Pierre-de-Coubertin",,,,way
 "Avenue Robert de Menthon",,,,way
-"Avenue Saint-Paul",,,,way
 "Avenue Sainte-Luce",,,,way
 "Avenue Villamont",,,,way
 "Avenue d'Aoste",,,,way
 "Avenue d'Evian",,,,way
-"Avenue d'Yverdon",,,,way
 "Avenue de Beaulieu",,,,way
 "Avenue de Beaumont",,,,way
 "Avenue de Béthusy",,,,way
@@ -113,7 +117,6 @@ name,source,gender,wikidata,type
 "Avenue des Tilleuls",,,,way
 "Avenue des Toises",,,,way
 "Avenue du Belvédère",,,,way
-"Avenue du Chablais",,,,way
 "Avenue du Denantou",,,,way
 "Avenue du Galicien",,,,way
 "Avenue du Grammont",,,,way
@@ -199,7 +202,6 @@ name,source,gender,wikidata,type
 "Chemin de Préville",,,,way
 "Chemin de Primerose",,,,way
 "Chemin de Réchoz",,,,way
-"Chemin de Renens",,,,way
 "Chemin de Richesson",,,,way
 "Chemin de Roseneck",,,,way
 "Chemin de Rovéréaz",,,,way
@@ -208,7 +210,6 @@ name,source,gender,wikidata,type
 "Chemin de Villard",,,,way
 "Chemin de Villardin",,,,way
 "Chemin de l'Ancien-Stand",,,,way
-"Chemin de l'Usine-à-Gaz",,,,way
 "Chemin de la Batelière",,,,way
 "Chemin de la Bergerie",,,,way
 "Chemin de la Cassinette",,,,way
@@ -251,7 +252,6 @@ name,source,gender,wikidata,type
 "Chemin des Abeilles",,,,way
 "Chemin des Allières",,,,way
 "Chemin des Allinges",,,,way
-"Chemin des Aubépines",,,,way
 "Chemin des Avelines",,,,way
 "Chemin des Bégonias",,,,way
 "Chemin des Bossons",,,,way
@@ -470,7 +470,6 @@ Jardins-de-Prélaz,,,,way
 "Route de Pierre Ozaire",,,,way
 "Route de Praz-Gilliard",,,,way
 "Route de Prilly",,,,way
-"Route de Renens",,,,way
 "Route de Romanel",,,,way
 "Route de Vidy",,,,way
 "Route de l'Abbaye",,,,way

@@ -34,6 +34,7 @@ name,source,gender,wikidata,type
 "Avenue Louis-Vulliemin",wikidata,M,Q3263305,way
 "Avenue Marc-Dufour",wikidata,M,Q121859,way
 "Avenue Pierre-Decker",wikidata,M,Q3384661,way
+"Avenue Pierre-Maurice Glayre",wikidata,M,Q117855,way
 "Avenue Victor-Ruffy",wikidata,M,Q678568,way
 "Avenue Virgile-Rossel",wikidata,M,Q2527707,way
 "Avenue William-Fraisse",wikidata,M,Q3568618,way
@@ -62,6 +63,7 @@ name,source,gender,wikidata,type
 "Place René Auberjonois",wikidata,M,Q683105,way
 "Place du Général Henri-Guisan",wikidata,M,Q123497,way
 "Pont Charles-Bessières",wikidata,M,Q2958546,way
+"Pont Marc-Dufour",wikidata,M,Q121859,way
 "Quai Jean-Pascal-Delamuraz",wikidata,M,Q115540,way
 "Route Aloys-Fauquez",wikidata,M,Q17305565,way
 "Rue Adrien-Pichard",wikidata,M,Q377138,way
@@ -79,4 +81,5 @@ name,source,gender,wikidata,type
 "Rue Pierre-Viret",wikidata,M,Q123337,way
 "Rue Voltaire",wikidata,M,Q9068,way
 "Rue William-Haldimand",wikidata,M,Q84034,way
+"Terrasse Alfred-Stucky",wikidata,M,Q120734,way
 "Terrasse Jean Monnet",wikidata,M,Q159700,way
