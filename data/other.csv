@@ -25,14 +25,14 @@ name,source,gender,wikidata,type
 "Passage Saint-François",wikidata,,Q3586117,way
 "Passerelle du Grand-Pont",wikidata,,Q682024,way
 "Place Saint-François",wikidata,,Q3586117,way
-"Place de la Cathédrale",wikidata,,Q669544,relation
+"Place de la Cathédrale",wikidata,,Q669544,relation+way
 "Place de la Gare",wikidata,,Q669678,way
 "Place du Tunnel",wikidata,,Q86732482,way
 "Placette du Tunnel",wikidata,,Q86732482,way
 "Quai d'Ouchy",wikidata,,Q870499,way
 "Quai de Belgique",wikidata,,Q31,way
 "Route de Mollie-Margot",wikidata,,Q3319599,way
-"Route de Neuchâtel",wikidata,,Q69345,relation
+"Route de Neuchâtel",wikidata,,Q69345,relation+way
 "Route de Renens",wikidata,,Q69745,way
 "Route de la Pierre-à-Cambot",wikidata,,Q3387852,way
 "Rue Saint-François",wikidata,,Q3586117,way
@@ -422,17 +422,17 @@ Jardins-de-Prélaz,,,,way
 "Passerelle Maillefer",,,,way
 "Place Bel-Air",,,,way
 "Place Centrale",,,,way
-"Place Chauderon",,,,relation
+"Place Chauderon",,,,relation+way
 "Place Grand-Saint-Jean",,,,way
-"Place Madeleine",,,,relation
+"Place Madeleine",,,,relation+way
 "Place Pépinet",,,,way
 "Place de l'Europe",,,,way
 "Place de l'Ours",,,,way
-"Place de la Fontaine-de-Cuivre",,,,relation
+"Place de la Fontaine-de-Cuivre",,,,relation+way
 "Place de la Louve",,,,way
 "Place de la Navigation",,,,relation
-"Place de la Palud",,,,relation
-"Place de la Riponne",,,,relation
+"Place de la Palud",,,,relation+way
+"Place de la Riponne",,,,relation+way
 "Place de la Sallaz",,,,way
 "Place du 14-Juin",,,,relation
 "Place du Granit",,,,way
@@ -461,7 +461,7 @@ Jardins-de-Prélaz,,,,way
 "Route de Benenté",,,,way
 "Route de Berne",,,,way
 "Route de Cery",,,,way
-"Route de Chavannes",,,,relation
+"Route de Chavannes",,,,relation+way
 "Route de Cojonnex",,,,way
 "Route de Lausanne",,,,way
 "Route de Marin",,,,way
