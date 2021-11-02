@@ -54,10 +54,10 @@ name,source,gender,wikidata,type
 "Avenue Floréal",,,,way
 "Avenue Georgette",,,,way
 "Avenue Jolimont",,,,way
+"Avenue Menthon",,,,way
 "Avenue Mon-Repos",,,,way
 "Avenue Montagibert",,,,way
 "Avenue Pierre-de-Coubertin",,,,way
-"Avenue Robert de Menthon",,,,way
 "Avenue Sainte-Luce",,,,way
 "Avenue Villamont",,,,way
 "Avenue d'Aoste",,,,way
@@ -134,7 +134,6 @@ name,source,gender,wikidata,type
 "Boulevard de Grancy",,,,way
 "Boulevard de la Forêt",,,,way
 "Chemin Beau-Site",,,,way
-"Chemin François-de-Lucinge",,,,way
 "Chemin Jaques-Larguier des Bancels",,,,way
 "Chemin Messidor",,,,way
 "Chemin Praz-Lau",,,,way
@@ -518,7 +517,6 @@ Jardins-de-Prélaz,,,,way
 "Rue Cité-Derrière",,,,way
 "Rue Cité-Devant",,,,way
 "Rue Couchirard",,,,way
-"Rue Edouard-Payot",,,,way
 "Rue Etraz",,,,way
 "Rue Grand-Saint-Jean",,,,way
 "Rue Madeleine",,,,way

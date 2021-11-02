@@ -46,6 +46,7 @@ name,source,gender,wikidata,type
 "Chemin Charles-Gide",wikidata,M,Q1064547,way
 "Chemin Edouard Sandoz",wikidata,M,Q1287609,way
 "Chemin Eugène-Grasset",wikidata,M,Q524154,way
+"Chemin François-de-Lucinge",wikidata,M,Q108884961,way
 "Chemin Général-Charles-Jules-Guiguer-de-Prangins",wikidata,M,Q117778,way
 "Chemin Jean-Jacques Porchat",wikidata,M,Q18115746,way
 "Chemin Louis-Boissonnet",wikidata,M,Q18214166,way
@@ -62,6 +63,7 @@ name,source,gender,wikidata,type
 "Place Marc-Louis-Arlaud",wikidata,M,Q3287697,way
 "Place René Auberjonois",wikidata,M,Q683105,way
 "Place du Général Henri-Guisan",wikidata,M,Q123497,way
+"Placette André-Bonnard",wikidata,M,Q2847337,way
 "Pont Charles-Bessières",wikidata,M,Q2958546,way
 "Pont Marc-Dufour",wikidata,M,Q121859,way
 "Quai Jean-Pascal-Delamuraz",wikidata,M,Q115540,way
@@ -72,6 +74,7 @@ name,source,gender,wikidata,type
 "Rue Charles-Vuillermet",wikidata,M,Q2960404,way
 "Rue Dr-César-Roux",wikidata,M,Q118027,way
 "Rue Edouard Gibbon",wikidata,M,Q161841,way
+"Rue Edouard-Payot",wikidata,M,Q108885080,way
 "Rue Jean-Jacques-Cart",wikidata,M,Q3166205,way
 "Rue Jean-Louis-Galliard",wikidata,M,Q3166776,way
 "Rue Jean-Louis-de-Bons",wikidata,M,Q2367125,way
@@ -82,4 +85,4 @@ name,source,gender,wikidata,type
 "Rue Voltaire",wikidata,M,Q9068,way
 "Rue William-Haldimand",wikidata,M,Q84034,way
 "Terrasse Alfred-Stucky",wikidata,M,Q120734,way
-"Terrasse Jean Monnet",wikidata,M,Q159700,way
+"Terrasse Jean-Monnet",wikidata,M,Q159700,way
