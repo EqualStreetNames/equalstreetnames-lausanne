@@ -24,7 +24,7 @@ name,source,gender,wikidata,type
 "Galeries Saint-François",wikidata,,Q3586117,way
 "Passage Saint-François",wikidata,,Q3586117,way
 "Passerelle du Grand-Pont",wikidata,,Q682024,way
-"Place Saint-François",wikidata,,Q3586117,way
+"Place Saint-François",wikidata,,Q3586117,relation+way
 "Place de la Cathédrale",wikidata,,Q669544,relation+way
 "Place de la Gare",wikidata,,Q669678,way
 "Place du Tunnel",wikidata,,Q86732482,way
@@ -374,7 +374,6 @@ name,source,gender,wikidata,type
 "Chemin du Reposoir",,,,way
 "Chemin du Réservoir",,,,way
 "Chemin du Riolet",,,,way
-"Chemin du Rionzi",,,,way
 "Chemin du Risoux",,,,way
 "Chemin du Salève",,,,way
 "Chemin du Stade",,,,way
@@ -440,6 +439,7 @@ Jardins-de-Prélaz,,,,way
 "Place du Vieux-Port",,,,relation
 "Placette Pré-du-Marché",,,,way
 "Pont Chauderon",,,,way
+"Promenade Saint-Maur",,,,way
 "Promenade de Vidy",,,,way
 "Promenade de la Ficelle",,,,way
 "Promenade de la Gottettaz",,,,way
