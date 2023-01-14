@@ -2,35 +2,78 @@ name,source,gender,wikidata,type
 "Allée des Bacounis",wikidata,,Q106744564,way
 "Avenue Saint-Paul",wikidata,,Q55382251,way
 "Avenue d'Echallens",wikidata,,Q70714,way
+"Avenue d'Evian",wikidata,,Q273017,way
 "Avenue d'Ouchy",wikidata,,Q870499,way
 "Avenue d'Yverdon",wikidata,,Q63946,way
 "Avenue de France",wikidata,,Q142,way
+"Avenue de Jaman",wikidata,,Q5141841,way
+"Avenue de Milan",wikidata,,Q490,way
 "Avenue de Montbenon",wikidata,,Q3058449,way
 "Avenue de Morges",wikidata,,Q69401,way
+"Avenue de Rhodanie",wikidata,,Q3429578,way
+"Avenue de l'Église-Anglaise",wikidata,,Q19406921,way
+"Avenue de l'Université",wikidata,,Q3918,way
+"Avenue de la Dent-d'Oche",wikidata,,Q1189865,way
 "Avenue de la Gare",wikidata,,Q669678,way
 "Avenue de la Tour Haldimand",wikidata,,Q195496,way
+"Avenue des Acacias",wikidata,,Q81666,way
+"Avenue des Alpes",wikidata,,Q1286,way
+"Avenue des Casernes",wikidata,,Q131263,way
+"Avenue des Oiseaux",wikidata,,Q5113,way
+"Avenue des Tilleuls",wikidata,,Q127849,way
 "Avenue du Chablais",wikidata,,Q869650,way
+"Avenue du Léman",wikidata,,Q6403,way
 "Avenue du Mont-Blanc",wikidata,,Q583,way
+"Avenue du Mont-d'Or",wikidata,,Q3322201,way
+"Avenue du Temple",wikidata,,Q44539,way
+"Avenue du Tribunal-Fédéral",wikidata,,Q676553,way
+"Avenue du Vieux-Moulin",wikidata,,Q44494,way
 "Cap de Vaudaire",wikidata,,Q3555050,way
+"Chemin de Boston",wikidata,,Q100,way
 "Chemin de La Vuachère",wikidata,,Q693050,way
 "Chemin de Renens",wikidata,,Q69745,way
 "Chemin de l'Usine-à-Gaz",wikidata,,Q56301875,way
+"Chemin de la Chocolatière",wikidata,,Q305012,way
+"Chemin de la Forêt",wikidata,,Q4421,way
+"Chemin de la Fourmi",wikidata,,Q7386,way
 "Chemin de la Vuachère",wikidata,,Q693050,way
+"Chemin des Abeilles",wikidata,,Q324132,way
 "Chemin des Aubépines",wikidata,,Q132557,way
+"Chemin des Cèdres",wikidata,,Q128550,way
+"Chemin des Celtes",wikidata,,Q35966,way
 "Chemin des Diablerets",wikidata,,Q15139,way
+"Chemin des Epinettes",wikidata,,Q26782,way
+"Chemin des Fougères",wikidata,,Q80005,way
+"Chemin des Lys",wikidata,,Q5194627,way
+"Chemin des Mouettes",wikidata,,Q3325437,way
+"Chemin des Plaines",wikidata,,Q160091,way
+"Chemin du Calvaire",wikidata,,Q371752,way
+"Chemin du Cerisier",wikidata,,Q2946681,way
+"Chemin du Frêne",wikidata,,Q128887,way
+"Chemin du Moléson",wikidata,,Q16586,way
+"Chemin du Mollendruz",wikidata,,Q391715,way
+"Chemin du Muveran",wikidata,,Q674584,way
 "Chemin du Parc-de-Valency",wikidata,,Q86726637,way
+"Chemin du Petit-Château",wikidata,,Q751876,way
+"Chemin du Salève",wikidata,,Q1711734,way
 "Escaliers du Grand-Pont",wikidata,,Q682024,way
 "Esplanade du Château",wikidata,,Q688912,way
 "Galeries Saint-François",wikidata,,Q3586117,way
 "Passage Saint-François",wikidata,,Q3586117,way
 "Passerelle du Grand-Pont",wikidata,,Q682024,way
 "Place Saint-François",wikidata,,Q3586117,relation+way
+"Place de l'Europe",wikidata,,Q46,relation+way
 "Place de la Cathédrale",wikidata,,Q669544,relation+way
 "Place de la Gare",wikidata,,Q669678,way
+"Place du Nord",wikidata,,Q659,way
 "Place du Tunnel",wikidata,,Q86732482,way
 "Placette du Tunnel",wikidata,,Q86732482,way
+"Promenade de la Ficelle",wikidata,,Q143845,way
+"Promenade des Molasses",wikidata,,Q304080,way
 "Quai d'Ouchy",wikidata,,Q870499,way
 "Quai de Belgique",wikidata,,Q31,way
+"Route d'Oron",wikidata,,Q70734,way
+"Route de Berne",wikidata,,Q70,way
 "Route de Mollie-Margot",wikidata,,Q3319599,way
 "Route de Neuchâtel",wikidata,,Q69345,relation+way
 "Route de Renens",wikidata,,Q69745,way
@@ -38,10 +81,22 @@ name,source,gender,wikidata,type
 "Rue Saint-François",wikidata,,Q3586117,way
 "Rue de Genève",wikidata,,Q71,way
 "Rue de Strasbourg",wikidata,,Q6602,way
+"Rue de l'Ecole-de-Commerce",wikidata,,Q1143635,way
+"Rue de l'Église Anglaise",wikidata,,Q19406921,way
+"Rue de l'Industrie",wikidata,,Q8148,way
+"Rue de la Pontaise",wikidata,,Q668606,way
 "Rue de la Tour",wikidata,,Q16010656,way
 "Rue des Côtes-de-Montbenon",wikidata,,Q3058449,way
+"Rue des Glaciers",wikidata,,Q35666,way
+"Rue des Oliviers",wikidata,,Q37083,way
+"Rue du Grand-Chêne",wikidata,,Q12004,way
 "Rue du Grand-Pont",wikidata,,Q682024,way
+"Rue du Jura",wikidata,,Q178611,way
+"Rue du Nord",wikidata,,Q659,way
+"Rue du Petit-Chêne",wikidata,,Q12004,way
+"Rue du Simplon",wikidata,,Q471166,way
 "Rue du Tunnel",wikidata,,Q86732482,way
+"Ruelle des Tanneurs",wikidata,,Q365461,way
 "Ruelle du Grand-Pont",wikidata,,Q682024,way
 "Tunnel Est Saint-François",wikidata,,Q3586117,way
 "Tunnel Ouest Saint-François",wikidata,,Q3586117,way
@@ -61,7 +116,6 @@ name,source,gender,wikidata,type
 "Avenue Sainte-Luce",,,,way
 "Avenue Villamont",,,,way
 "Avenue d'Aoste",,,,way
-"Avenue d'Evian",,,,way
 "Avenue de Beaulieu",,,,way
 "Avenue de Beaumont",,,,way
 "Avenue de Béthusy",,,,way
@@ -69,15 +123,12 @@ name,source,gender,wikidata,type
 "Avenue de Cour",,,,way
 "Avenue de Florimont",,,,way
 "Avenue de Gratta-Paille",,,,way
-"Avenue de Jaman",,,,way
 "Avenue de Jurigoz",,,,way
 "Avenue de Longemalle",,,,way
-"Avenue de Milan",,,,way
 "Avenue de Mon-Loisir",,,,way
 "Avenue de Montchoisi",,,,way
 "Avenue de Montoie",,,,way
 "Avenue de Provence",,,,way
-"Avenue de Rhodanie",,,,way
 "Avenue de Riant-Mont",,,,way
 "Avenue de Rosemont",,,,way
 "Avenue de Rumine",,,,way
@@ -89,50 +140,36 @@ name,source,gender,wikidata,type
 "Avenue de Vernand-Dessous",,,,way
 "Avenue de Vernand-Dessus",,,,way
 "Avenue de l'Avant-Poste",,,,way
-"Avenue de l'Église-Anglaise",,,,way
 "Avenue de l'Élysée",,,,way
 "Avenue de l'Esplanade",,,,way
-"Avenue de l'Université",,,,way
 "Avenue de la Chablière",,,,way
 "Avenue de la Confrérie",,,,way
-"Avenue de la Dent-d'Oche",,,,way
 "Avenue de la Dôle",,,,way
 "Avenue de la Rapille",,,,way
 "Avenue de la Rasude",,,,way
 "Avenue de la Sallaz",,,,way
 "Avenue de la Vallombreuse",,,,way
 "Avenue de la Vallonnette",,,,way
-"Avenue des Acacias",,,,way
-"Avenue des Alpes",,,,way
 "Avenue des Bains",,,,way
 "Avenue des Belles-Roches",,,,way
 "Avenue des Bergières",,,,way
 "Avenue des Boveresses",,,,way
-"Avenue des Casernes",,,,way
 "Avenue des Figuiers",,,,way
 "Avenue des Jordils",,,,way
 "Avenue des Mousquines",,,,way
-"Avenue des Oiseaux",,,,way
 "Avenue des Oscherins",,,,way
-"Avenue des Tilleuls",,,,way
 "Avenue des Toises",,,,way
 "Avenue du Belvédère",,,,way
 "Avenue du Denantou",,,,way
 "Avenue du Galicien",,,,way
 "Avenue du Grammont",,,,way
 "Avenue du Grey",,,,way
-"Avenue du Léman",,,,way
-"Avenue du Mont-d'Or",,,,way
 "Avenue du Parc-de-la-Rouvraie",,,,way
 "Avenue du Rond-Point",,,,way
-"Avenue du Temple",,,,way
 "Avenue du Théâtre",,,,way
-"Avenue du Tribunal-Fédéral",,,,way
 "Avenue du Vélodrome",,,,way
-"Avenue du Vieux-Moulin",,,,way
 "Avenue du Vingt-Quatre-Janvier",,,,way
 "Boulevard de Grancy",,,,way
-"Boulevard de la Forêt",,,,way
 "Chemin Beau-Site",,,,way
 "Chemin Jaques-Larguier des Bancels",,,,way
 "Chemin Messidor",,,,way
@@ -147,6 +184,7 @@ name,source,gender,wikidata,type
 "Chemin de Barberine",,,,way
 "Chemin de Beau-Rivage",,,,way
 "Chemin de Beau-Val",,,,way
+"Chemin de Bel Orne",,,,way
 "Chemin de Belle-Source",,,,way
 "Chemin de Bellerive",,,,way
 "Chemin de Bellevue",,,,way
@@ -154,7 +192,6 @@ name,source,gender,wikidata,type
 "Chemin de Bochardon",,,,way
 "Chemin de Bon-Abri",,,,way
 "Chemin de Bonne-Espérance",,,,way
-"Chemin de Boston",,,,way
 "Chemin de Champ-Rond",,,,way
 "Chemin de Champ-Soleil",,,,way
 "Chemin de Champrilly",,,,way
@@ -214,25 +251,22 @@ name,source,gender,wikidata,type
 "Chemin de la Cassinette",,,,way
 "Chemin de la Chapelle",,,,way
 "Chemin de la Chaumière",,,,way
-"Chemin de la Chocolatière",,,,way
 "Chemin de la Cigale",,,,way
 "Chemin de la Coffette",,,,way
 "Chemin de la Colline",,,,way
+"Chemin de la Combette",,,,way
 "Chemin de la Coudrette",,,,way
 "Chemin de la Cure",,,,way
 "Chemin de la Dranse",,,,way
 "Chemin de la Fauvette",,,,way
 "Chemin de la Ficelle",,,,way
 "Chemin de la Fontaine-des-Meules",,,,way
-"Chemin de la Forêt",,,,way
-"Chemin de la Fourmi",,,,way
 "Chemin de la Fruitière",,,,way
 "Chemin de la Gottettaz",,,,way
 "Chemin de la Grangette",,,,way
 "Chemin de la Gravière",,,,way
 "Chemin de la Joliette",,,,way
 "Chemin de la Lisière",,,,way
-"Chemin de la Mèbre",,,,way
 "Chemin de la Motte",,,,way
 "Chemin de la Pécholettaz",,,,way
 "Chemin de la Pétause",,,,way
@@ -248,7 +282,6 @@ name,source,gender,wikidata,type
 "Chemin de la Vallombreuse",,,,way
 "Chemin de la Vulliettaz",,,,way
 "Chemin de la Vulliette",,,,way
-"Chemin des Abeilles",,,,way
 "Chemin des Allières",,,,way
 "Chemin des Allinges",,,,way
 "Chemin des Avelines",,,,way
@@ -257,8 +290,6 @@ name,source,gender,wikidata,type
 "Chemin des Bouleaux",,,,way
 "Chemin des Boveresses",,,,way
 "Chemin des Bruyères",,,,way
-"Chemin des Cèdres",,,,way
-"Chemin des Celtes",,,,way
 "Chemin des Charmettes",,,,way
 "Chemin des Charmilles",,,,way
 "Chemin des Clochetons",,,,way
@@ -273,7 +304,6 @@ name,source,gender,wikidata,type
 "Chemin des Deux-Ponts",,,,way
 "Chemin des Écoliers",,,,way
 "Chemin des Egralets",,,,way
-"Chemin des Epinettes",,,,way
 "Chemin des Esserts",,,,way
 "Chemin des Eterpeys",,,,way
 "Chemin des Falaises",,,,way
@@ -282,7 +312,6 @@ name,source,gender,wikidata,type
 "Chemin des Fleurettes",,,,way
 "Chemin des Fleurs",,,,way
 "Chemin des Fontaines",,,,way
-"Chemin des Fougères",,,,way
 "Chemin des Glycines",,,,way
 "Chemin des Grandes-Côtes",,,,way
 "Chemin des Grandes-Roches",,,,way
@@ -290,19 +319,16 @@ name,source,gender,wikidata,type
 "Chemin des Libellules",,,,way
 "Chemin des Lilas",,,,way
 "Chemin des Losiardes",,,,way
-"Chemin des Lys",,,,way
 "Chemin des Magnolias",,,,way
 "Chemin des Matines",,,,way
 "Chemin des Mayoresses",,,,way
 "Chemin des Mésanges",,,,way
 "Chemin des Molliettes",,,,way
-"Chemin des Mouettes",,,,way
 "Chemin des Noisetiers",,,,way
 "Chemin des Paleyres",,,,way
 "Chemin des Pâquerettes",,,,way
 "Chemin des Pervenches",,,,way
 "Chemin des Pinsons",,,,way
-"Chemin des Plaines",,,,way
 "Chemin des Planchettes",,,,way
 "Chemin des Platanes",,,,way
 "Chemin des Pyramides",,,,way
@@ -328,10 +354,8 @@ name,source,gender,wikidata,type
 "Chemin du Boissy",,,,way
 "Chemin du Boisy",,,,way
 "Chemin du Boulard",,,,way
-"Chemin du Calvaire",,,,way
 "Chemin du Cap",,,,way
 "Chemin du Capelard",,,,way
-"Chemin du Cerisier",,,,way
 "Chemin du Chalet Saboton",,,,way
 "Chemin du Chalet de Praroman",,,,way
 "Chemin du Chalet-Mignon",,,,way
@@ -342,7 +366,6 @@ name,source,gender,wikidata,type
 "Chemin du Creux Gadin",,,,way
 "Chemin du Devin",,,,way
 "Chemin du Flon-Morand",,,,way
-"Chemin du Frêne",,,,way
 "Chemin du Funiculaire",,,,way
 "Chemin du Furet",,,,way
 "Chemin du Grand-Bois",,,,way
@@ -354,14 +377,10 @@ name,source,gender,wikidata,type
 "Chemin du Liaudoz",,,,way
 "Chemin du Marronnier",,,,way
 "Chemin du Martinet",,,,way
-"Chemin du Moléson",,,,way
-"Chemin du Mollendruz",,,,way
 "Chemin du Mont-Tendre",,,,way
 "Chemin du Muguet",,,,way
 "Chemin du Mûrier",,,,way
-"Chemin du Muveran",,,,way
 "Chemin du Noirmont",,,,way
-"Chemin du Petit-Château",,,,way
 "Chemin du Petit-Flon",,,,way
 "Chemin du Point-du-Jour",,,,way
 "Chemin du Pont-Rouge",,,,way
@@ -375,7 +394,6 @@ name,source,gender,wikidata,type
 "Chemin du Réservoir",,,,way
 "Chemin du Riolet",,,,way
 "Chemin du Risoux",,,,way
-"Chemin du Salève",,,,way
 "Chemin du Stade",,,,way
 "Chemin du Suchet",,,,way
 "Chemin du Taulard",,,,way
@@ -404,6 +422,7 @@ Jardins-de-Prélaz,,,,way
 "Le Grand-Chemin",,,,way
 "Le Sentier à Lucien",,,,way
 "Parc des Vignes-d'Argent",,,,way
+"Parc du Loup",,,,way
 "Parcours Vita Lausanne-Chalet-à-Gobet",,,,way
 "Parcours Vita Lausanne-Vidy",,,,way
 "Passage Belle-Rose",,,,way
@@ -424,7 +443,6 @@ Jardins-de-Prélaz,,,,way
 "Place Grand-Saint-Jean",,,,way
 "Place Madeleine",,,,relation+way
 "Place Pépinet",,,,way
-"Place de l'Europe",,,,relation+way
 "Place de l'Ours",,,,way
 "Place de la Fontaine-de-Cuivre",,,,relation+way
 "Place de la Louve",,,,way
@@ -434,17 +452,14 @@ Jardins-de-Prélaz,,,,way
 "Place de la Sallaz",,,,way
 "Place du 14-Juin",,,,relation
 "Place du Granit",,,,way
-"Place du Nord",,,,way
 "Place du Vallon",,,,way
 "Place du Vieux-Port",,,,relation
 "Placette Pré-du-Marché",,,,way
 "Pont Chauderon",,,,way
 "Promenade Saint-Maur",,,,way
 "Promenade de Vidy",,,,way
-"Promenade de la Ficelle",,,,way
 "Promenade de la Gottettaz",,,,way
 "Promenade de la Solitude",,,,way
-"Promenade des Molasses",,,,way
 "Promenade du Boisy",,,,way
 "Quai Jurigoz",,,,way
 "Quai de la Nautique",,,,way
@@ -452,13 +467,12 @@ Jardins-de-Prélaz,,,,way
 "Quai des Savoyards",,,,way
 "Quai du Vent-Blanc",,,,way
 "Quartier de la Violette",,,,way
+"Rond-Point de Verdeil",,,,way
 "Rond-Point de la Maladière",,,,way
 "Route d'Epalinges",,,,way
-"Route d'Oron",,,,way
 "Route d'Yverdon",,,,way
 "Route de Bel-Air",,,,way
 "Route de Benenté",,,,way
-"Route de Berne",,,,way
 "Route de Cery",,,,way
 "Route de Chavannes",,,,relation+way
 "Route de Cojonnex",,,,way
@@ -528,7 +542,6 @@ Jardins-de-Prélaz,,,,way
 "Rue Pré-du-Marché",,,,way
 "Rue Saint-Etienne",,,,way
 "Rue Saint-Laurent",,,,way
-"Rue Saint-Martin",,,,way
 "Rue Saint-Pierre",,,,way
 "Rue Saint-Roch",,,,way
 "Rue Traversière",,,,way
@@ -539,53 +552,41 @@ Jardins-de-Prélaz,,,,way
 "Rue de l'Ancienne-Douane",,,,way
 "Rue de l'Aurore",,,,way
 "Rue de l'Ecole-Supérieure",,,,way
-"Rue de l'Ecole-de-Commerce",,,,way
-"Rue de l'Église Anglaise",,,,way
-"Rue de l'Industrie",,,,way
 "Rue de la Barre",,,,way
 "Rue de la Borde",,,,way
 "Rue de la Grotte",,,,way
 "Rue de la Louve",,,,way
 "Rue de la Mèbre",,,,way
 "Rue de la Paix",,,,way
-"Rue de la Pontaise",,,,way
 "Rue de la Vigie",,,,way
 "Rue des Amis",,,,way
 "Rue des Crêtes",,,,way
 "Rue des Deux-Marchés",,,,way
 "Rue des Echelettes",,,,way
 "Rue des Fontenailles",,,,way
-"Rue des Glaciers",,,,way
 "Rue des Jardins",,,,way
 "Rue des Maisons-Familiales",,,,way
-"Rue des Oliviers",,,,way
 "Rue des Terreaux",,,,way
 "Rue du Bugnon",,,,way
 "Rue du Clos-de-Bulle",,,,way
 "Rue du Crêt",,,,way
-"Rue du Grand-Chêne",,,,way
 "Rue du Grand-Pré",,,,way
-"Rue du Jura",,,,way
 "Rue du Lac",,,,way
 "Rue du Lion-d'Or",,,,relation
 "Rue du Liseron",,,,way
 "Rue du Maupas",,,,way
 "Rue du Midi",,,,way
-"Rue du Nord",,,,way
 "Rue du Petit-Beaulieu",,,,way
-"Rue du Petit-Chêne",,,,way
 "Rue du Petit-Rocher",,,,way
 "Rue du Petit-Saint-Jean",,,,way
 "Rue du Petit-Valentin",,,,way
 "Rue du Pont",,,,way
 "Rue du Port-Franc",,,,way
 "Rue du Rôtillon",,,,way
-"Rue du Simplon",,,,way
 "Rue du Valentin",,,,way
 "Rue du Vallon",,,,way
 "Ruelle Grand-Saint-Jean",,,,way
 "Ruelle de Bourg",,,,way
-"Ruelle des Tanneurs",,,,way
 "Ruelle du Flon",,,,way
 "Ruelle du Lapin-Vert",,,,way
 "Sentier Praz-Dom-Nicod",,,,way

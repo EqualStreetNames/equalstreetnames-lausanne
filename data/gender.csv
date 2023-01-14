@@ -13,8 +13,8 @@ name,source,gender,wikidata,type
 "Avenue Auguste Tissot",wikidata,M,Q124273,way
 "Avenue Auguste-Verdeil",wikidata,M,Q2871431,way
 "Avenue Benjamin-Constant",wikidata,M,Q123089,way
+"Avenue Charles Ferdinand Ramuz",wikidata,M,Q123635,way
 "Avenue Charles-Dickens",wikidata,M,Q5686,way
-"Avenue Charles-Ferdinand-Ramuz",wikidata,M,Q123635,way
 "Avenue Charles-Secrétan",wikidata,M,Q2027982,way
 "Avenue Édouard-Dapples",wikidata,M,Q118010,way
 "Avenue Edouard-Rod",wikidata,M,Q122356,way
@@ -82,6 +82,7 @@ name,source,gender,wikidata,type
 "Rue Mathurin-Cordier",wikidata,M,Q950840,way
 "Rue Philippe-François-de-Langallerie",wikidata,M,Q106719386,way
 "Rue Pierre-Viret",wikidata,M,Q123337,way
+"Rue Saint-Martin",wikidata,M,Q133704,way
 "Rue Voltaire",wikidata,M,Q9068,way
 "Rue William-Haldimand",wikidata,M,Q84034,way
 "Terrasse Alfred-Stucky",wikidata,M,Q120734,way
