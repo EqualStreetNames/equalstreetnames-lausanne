@@ -112,7 +112,6 @@ name,source,gender,wikidata,type
 "Avenue Menthon",,,,way
 "Avenue Mon-Repos",,,,way
 "Avenue Montagibert",,,,way
-"Avenue Pierre-de-Coubertin",,,,way
 "Avenue Sainte-Luce",,,,way
 "Avenue Villamont",,,,way
 "Avenue d'Aoste",,,,way
@@ -426,6 +425,7 @@ Jardins-de-Prélaz,,,,way
 "Parcours Vita Lausanne-Chalet-à-Gobet",,,,way
 "Parcours Vita Lausanne-Vidy",,,,way
 "Passage Belle-Rose",,,,way
+"Passage Hollard",,,,way
 "Passage de Montriond",,,,way
 "Passage de l'Aurore",,,,way
 "Passage de l'Entrepôt-Fédéral",,,,way
@@ -436,7 +436,7 @@ Jardins-de-Prélaz,,,,way
 "Passage du Liseron",,,,way
 "Passage du Pécos",,,,way
 "Passerelle Maillefer",,,,way
-"Passerelle provisoire Grand-Pont",,,,way
+"Place Aloïse-Corbaz",,,,way
 "Place Bel-Air",,,,way
 "Place Centrale",,,,way
 "Place Chauderon",,,,relation+way
@@ -454,7 +454,6 @@ Jardins-de-Prélaz,,,,way
 "Place du Granit",,,,way
 "Place du Vallon",,,,way
 "Place du Vieux-Port",,,,relation
-"Placette Pré-du-Marché",,,,way
 "Pont Chauderon",,,,way
 "Promenade Saint-Maur",,,,way
 "Promenade de Vidy",,,,way
