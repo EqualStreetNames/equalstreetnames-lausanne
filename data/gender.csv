@@ -1,6 +1,7 @@
 name,source,gender,wikidata,type
 "Avenue Maria-Belgia",wikidata,F,Q3290884,way
 "Chemin Isabelle-de-Montolieu",wikidata,F,Q3155078,way
+"Place Aloïse-Corbaz",wikidata,F,Q124783,way
 "Rue Germaine-Ernst",wikidata,F,Q42529679,way
 "Rue Jenny Enning",wikidata,F,Q78061488,way
 "Allée Ernest-Ansermet",wikidata,M,Q123603,way
@@ -57,6 +58,7 @@ name,source,gender,wikidata,type
 "Espace Jacques Rogge",wikidata,M,Q182609,way
 "Galeries Benjamin-Constant",wikidata,M,Q123089,way
 "Passage François-Louis-Bocion",wikidata,M,Q672079,way
+"Passage Hollard",wikidata,M,Q2218419,way
 "Passage Jean-Muret",wikidata,M,Q3173650,way
 "Passage Mathias Mayor",wikidata,M,Q3298584,way
 "Passage Vincent-Perdonnet",wikidata,M,Q1683791,way
