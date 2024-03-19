@@ -60,6 +60,7 @@ name,source,gender,wikidata,type
 "Esplanade du Château",wikidata,,Q688912,way
 "Galeries Saint-François",wikidata,,Q3586117,way
 "Passage Saint-François",wikidata,,Q3586117,way
+"Passerelle Lucy-Dutoit",wikidata,,Q682024,way
 "Passerelle du Grand-Pont",wikidata,,Q682024,way
 "Place Saint-François",wikidata,,Q3586117,relation+way
 "Place de l'Europe",wikidata,,Q46,relation+way
@@ -73,9 +74,12 @@ name,source,gender,wikidata,type
 "Quai d'Ouchy",wikidata,,Q870499,way
 "Quai de Belgique",wikidata,,Q31,way
 "Route d'Oron",wikidata,,Q70734,way
+"Route d'Yverdon",wikidata,,Q63946,way
 "Route de Berne",wikidata,,Q70,way
+"Route de Lausanne",wikidata,,Q807,way
 "Route de Mollie-Margot",wikidata,,Q3319599,way
 "Route de Neuchâtel",wikidata,,Q69345,relation+way
+"Route de Prilly",wikidata,,Q69757,way
 "Route de Renens",wikidata,,Q69745,way
 "Route de la Pierre-à-Cambot",wikidata,,Q3387852,way
 "Rue Saint-François",wikidata,,Q3586117,way
@@ -435,7 +439,6 @@ Esplanade,,,,way
 "Passage du Liseron",,,,way
 "Passage du Pécos",,,,way
 "Passerelle Maillefer",,,,way
-"Place Andrée-Antonioli-Rouiller",,,,way
 "Place Bel-Air",,,,way
 "Place Chauderon",,,,relation+way
 "Place Grand-Saint-Jean",,,,way
@@ -449,6 +452,7 @@ Esplanade,,,,way
 "Place de la Riponne",,,,relation+way
 "Place de la Sallaz",,,,way
 "Place des Pionnières",,,,way
+"Place des Râpes",,,,way
 "Place du 14-Juin",,,,relation
 "Place du Granit",,,,way
 "Place du Vallon",,,,way
@@ -470,18 +474,15 @@ Esplanade,,,,way
 "Rond-Point de la Maladière",,,,way
 "Route Hélène-Monastier",,,,way
 "Route d'Epalinges",,,,way
-"Route d'Yverdon",,,,way
 "Route de Benenté",,,,way
 "Route de Cery",,,,way
 "Route de Chavannes",,,,relation+way
 "Route de Cojonnex",,,,way
-"Route de Lausanne",,,,way
 "Route de Marin",,,,way
 "Route de Montblesson",,,,way
 "Route de Montheron",,,,way
 "Route de Pierre Ozaire",,,,way
 "Route de Praz-Gilliard",,,,way
-"Route de Prilly",,,,way
 "Route de Romanel",,,,way
 "Route de Vidy",,,,way
 "Route de l'Abbaye",,,,way
@@ -564,6 +565,7 @@ Esplanade,,,,way
 "Rue des Echelettes",,,,way
 "Rue des Fontenailles",,,,way
 "Rue des Jardins",,,,way
+"Rue des Lavandières",,,,way
 "Rue des Maisons-Familiales",,,,way
 "Rue des Terreaux",,,,way
 "Rue du Bugnon",,,,way
