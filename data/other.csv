@@ -11,7 +11,7 @@ name,source,gender,wikidata,type
 "Avenue de Montbenon",wikidata,,Q3058449,way
 "Avenue de Morges",wikidata,,Q69401,way
 "Avenue de Rhodanie",wikidata,,Q3429578,way
-"Avenue de l'Église-Anglaise",wikidata,,Q19406921,way
+"Avenue de l'Eglise-Anglaise",wikidata,,Q19406921,way
 "Avenue de l'Université",wikidata,,Q3918,way
 "Avenue de la Dent-d'Oche",wikidata,,Q1189865,way
 "Avenue de la Gare",wikidata,,Q669678,way
@@ -58,7 +58,7 @@ name,source,gender,wikidata,type
 "Chemin du Salève",wikidata,,Q1711734,way
 "Escaliers du Grand-Pont",wikidata,,Q682024,way
 "Esplanade du Château",wikidata,,Q688912,way
-"Galeries Saint-François",wikidata,,Q3586117,way
+"Galerie Saint-François",wikidata,,Q3586117,way
 "Passage Saint-François",wikidata,,Q3586117,way
 "Passerelle Lucy-Dutoit",wikidata,,Q682024,way
 "Passerelle du Grand-Pont",wikidata,,Q682024,way
@@ -73,6 +73,7 @@ name,source,gender,wikidata,type
 "Promenade des Molasses",wikidata,,Q304080,way
 "Quai d'Ouchy",wikidata,,Q870499,way
 "Quai de Belgique",wikidata,,Q31,way
+"Route Cantonale",wikidata,,Q869650,way
 "Route d'Oron",wikidata,,Q70734,way
 "Route d'Yverdon",wikidata,,Q63946,way
 "Route de Berne",wikidata,,Q70,way
@@ -86,7 +87,7 @@ name,source,gender,wikidata,type
 "Rue de Genève",wikidata,,Q71,way
 "Rue de Strasbourg",wikidata,,Q6602,way
 "Rue de l'Ecole-de-Commerce",wikidata,,Q1143635,way
-"Rue de l'Église Anglaise",wikidata,,Q19406921,way
+"Rue de l'Eglise Anglaise",wikidata,,Q19406921,way
 "Rue de l'Industrie",wikidata,,Q8148,way
 "Rue de la Pontaise",wikidata,,Q668606,way
 "Rue de la Tour",wikidata,,Q16010656,way
@@ -111,6 +112,7 @@ name,source,gender,wikidata,type
 "Avenue Eglantine",,,,way
 "Avenue Fantaisie",,,,way
 "Avenue Floréal",,,,way
+"Avenue Gabriel-de-Rumine",,,,way
 "Avenue Georgette",,,,way
 "Avenue Jolimont",,,,way
 "Avenue Menthon",,,,way
@@ -134,7 +136,6 @@ name,source,gender,wikidata,type
 "Avenue de Provence",,,,way
 "Avenue de Riant-Mont",,,,way
 "Avenue de Rosemont",,,,way
-"Avenue de Rumine",,,,way
 "Avenue de Savoie",,,,way
 "Avenue de Sévelin",,,,way
 "Avenue de Solange",,,,way
@@ -174,10 +175,12 @@ name,source,gender,wikidata,type
 "Avenue du Vingt-Quatre-Janvier",,,,way
 "Boulevard de Grancy",,,,way
 "Chemin Beau-Site",,,,way
+"Chemin François-Louis-Renou",,,,way
 "Chemin Jaques-Larguier des Bancels",,,,way
+"Chemin Jean-Philippe-Loys-de-Villardin",,,,way
 "Chemin Messidor",,,,way
+"Chemin Praz-Devant",,,,way
 "Chemin Praz-Lau",,,,way
-"Chemin Renou",,,,way
 "Chemin Riant-Pré",,,,way
 "Chemin Riant-Val",,,,way
 "Chemin Simplemont",,,,way
@@ -209,7 +212,6 @@ name,source,gender,wikidata,type
 "Chemin de Florency",,,,way
 "Chemin de Fontannaz",,,,way
 "Chemin de Fontenay",,,,way
-"Chemin de Gottettaz",,,,way
 "Chemin de Grand-Vennes",,,,way
 "Chemin de Grande-Rive",,,,way
 "Chemin de Grésy",,,,way
@@ -247,7 +249,6 @@ name,source,gender,wikidata,type
 "Chemin de Valdézia",,,,way
 "Chemin de Verdonnet",,,,way
 "Chemin de Villard",,,,way
-"Chemin de Villardin",,,,way
 "Chemin de l'Ancien-Stand",,,,way
 "Chemin de la Batelière",,,,way
 "Chemin de la Bergerie",,,,way
@@ -296,8 +297,8 @@ name,source,gender,wikidata,type
 "Chemin des Charmettes",,,,way
 "Chemin des Charmilles",,,,way
 "Chemin des Clochetons",,,,way
-"Chemin des Côtes de la Bourdonnette",,,,way
 "Chemin des Côtes-de-Montmoiret",,,,way
+"Chemin des Côtes-de-la-Bourdonnette",,,,way
 "Chemin des Cottages",,,,way
 "Chemin des Coumenets",,,,way
 "Chemin des Croix-Rouges",,,,way
@@ -419,9 +420,9 @@ Esplanade,,,,way
 "Esplanade des Cantons (Expo 64)",,,,way
 "Giratoire de Malley",,,,way
 "Jardins de Prélaz",,,,way
+Jardins-de-Prélaz,,,,way
 "Jetée d'Osches",,,,way
-"Jetée de la Compagnie",,,,way
-"Lausanne, Bourdonnette",,,,way
+Jetée-de-la-Compagnie,,,,way
 "Le Grand-Chemin",,,,way
 "Le Sentier à Lucien",,,,way
 "Parc des Vignes-d'Argent",,,,way
@@ -442,6 +443,7 @@ Esplanade,,,,way
 "Place Bel-Air",,,,way
 "Place Chauderon",,,,relation+way
 "Place Grand-Saint-Jean",,,,way
+"Place Liliane-Bergier",,,,way
 "Place Madeleine",,,,relation+way
 "Place Pépinet",,,,way
 "Place de l'Ours",,,,way
@@ -458,10 +460,12 @@ Esplanade,,,,way
 "Place du Vallon",,,,way
 "Place du Vieux-Port",,,,relation
 "Pont Chauderon",,,,way
+"Promenade Lucienne-Schnegg",,,,way
 "Promenade Saint-Maur",,,,way
 "Promenade de Vidy",,,,way
 "Promenade de la Gottettaz",,,,way
 "Promenade de la Solitude",,,,way
+"Promenade du Bois-de-Beaulieu",,,,way
 "Promenade du Boisy",,,,way
 "Quai Jurigoz",,,,way
 "Quai de la Nautique",,,,way
@@ -543,6 +547,7 @@ Esplanade,,,,way
 "Rue Saint-Laurent",,,,way
 "Rue Saint-Pierre",,,,way
 "Rue Saint-Roch",,,,way
+"Rue Sera-Biasini",,,,way
 "Rue Traversière",,,,way
 "Rue de Bourg",,,,way
 "Rue de Sébeillon",,,,way
@@ -564,7 +569,6 @@ Esplanade,,,,way
 "Rue des Echelettes",,,,way
 "Rue des Fontenailles",,,,way
 "Rue des Jardins",,,,way
-"Rue des Lavandières",,,,way
 "Rue des Maisons-Familiales",,,,way
 "Rue des Terreaux",,,,way
 "Rue du Bugnon",,,,way
@@ -584,7 +588,6 @@ Esplanade,,,,way
 "Rue du Port-Franc",,,,way
 "Rue du Rôtillon",,,,way
 "Rue du Valentin",,,,way
-"Rue du Vallon",,,,way
 "Ruelle Grand-Saint-Jean",,,,way
 "Ruelle de Bourg",,,,way
 "Ruelle du Flon",,,,way
@@ -598,6 +601,5 @@ Esplanade,,,,way
 Vallée-de-la-Jeunesse,,,,way
 Vieux-Port,,,,way
 "Voie du Chariot",,,,way
-"Zwischengeschoss Place de l'Europe",,,,way
 parcoursvita,,,,way
 "route du Creux-",,,,way
