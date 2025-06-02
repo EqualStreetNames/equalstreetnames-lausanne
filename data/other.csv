@@ -29,6 +29,7 @@ name,source,gender,wikidata,type
 "Avenue du Tribunal-Fédéral",wikidata,,Q676553,way
 "Avenue du Vieux-Moulin",wikidata,,Q44494,way
 "Cap de Vaudaire",wikidata,,Q3555050,way
+"Chemin de Bel-Orne",wikidata,,Q69745,way
 "Chemin de Boston",wikidata,,Q100,way
 "Chemin de La Vuachère",wikidata,,Q693050,way
 "Chemin de Renens",wikidata,,Q69745,way
@@ -176,7 +177,7 @@ name,source,gender,wikidata,type
 "Boulevard de Grancy",,,,way
 "Chemin Beau-Site",,,,way
 "Chemin François-Louis-Renou",,,,way
-"Chemin Jaques-Larguier des Bancels",,,,way
+"Chemin Jaques-Larguier-des-Bancels",,,,way
 "Chemin Jean-Philippe-Loys-de-Villardin",,,,way
 "Chemin Messidor",,,,way
 "Chemin Praz-Devant",,,,way
@@ -190,7 +191,6 @@ name,source,gender,wikidata,type
 "Chemin de Barberine",,,,way
 "Chemin de Beau-Rivage",,,,way
 "Chemin de Beau-Val",,,,way
-"Chemin de Bel Orne",,,,way
 "Chemin de Belle-Source",,,,way
 "Chemin de Bellerive",,,,way
 "Chemin de Bellevue",,,,way
@@ -224,7 +224,7 @@ name,source,gender,wikidata,type
 "Chemin de Mauvernay",,,,way
 "Chemin de Meillerie",,,,way
 "Chemin de Mémise",,,,way
-"Chemin de Moille Saugeon",,,,way
+"Chemin de Moille-Saugeon",,,,way
 "Chemin de Mont-Paisible",,,,way
 "Chemin de Montelly",,,,way
 "Chemin de Montétan",,,,way
@@ -280,6 +280,7 @@ name,source,gender,wikidata,type
 "Chemin de la Planche-aux-Oies",,,,way
 "Chemin de la Prairie",,,,way
 "Chemin de la Ratavolar",,,,way
+"Chemin de la Roche-au-Loup",,,,way
 "Chemin de la Rosière",,,,way
 "Chemin de la Suettaz",,,,way
 "Chemin de la Tour-Grise",,,,way
@@ -361,6 +362,7 @@ name,source,gender,wikidata,type
 "Chemin du Cap",,,,way
 "Chemin du Capelard",,,,way
 "Chemin du Chalet Saboton",,,,way
+"Chemin du Chalet à Marin",,,,way
 "Chemin du Chalet de Praroman",,,,way
 "Chemin du Chalet-Mignon",,,,way
 "Chemin du Chalet-à-Marin",,,,way
@@ -503,8 +505,9 @@ Jetée-de-la-Compagnie,,,,way
 "Route de la Moille Grise",,,,way
 "Route de la Rama",,,,way
 "Route de la Râpe",,,,way
-"Route de la Salle des Fayards",,,,way
+"Route de la Salle-des-Fayards",,,,way
 "Route des Biolettes",,,,way
+"Route des Censières",,,,way
 "Route des Corbessières",,,,way
 "Route des Dragons",,,,way
 "Route des Martines",,,,way
@@ -515,8 +518,8 @@ Jetée-de-la-Compagnie,,,,way
 "Route du Bois de Vernand-Dessous",,,,way
 "Route du Bois de la Lancy",,,,way
 "Route du Bois-Genoud",,,,way
-"Route du Chalet Vieux",,,,way
 "Route du Chalet-Boverat",,,,way
+"Route du Chalet-Vieux",,,,way
 "Route du Chalet-à-Gobet",,,,way
 "Route du Chalet-des-Enfants",,,,way
 "Route du Châtelard",,,,way
