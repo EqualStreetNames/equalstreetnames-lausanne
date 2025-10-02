@@ -1,111 +1,4 @@
 name,source,gender,wikidata,type
-"Allée des Bacounis",wikidata,,Q106744564,way
-"Avenue Saint-Paul",wikidata,,Q55382251,way
-"Avenue d'Echallens",wikidata,,Q70714,way
-"Avenue d'Evian",wikidata,,Q273017,way
-"Avenue d'Ouchy",wikidata,,Q870499,way
-"Avenue d'Yverdon",wikidata,,Q63946,way
-"Avenue de France",wikidata,,Q142,way
-"Avenue de Jaman",wikidata,,Q5141841,way
-"Avenue de Milan",wikidata,,Q490,way
-"Avenue de Montbenon",wikidata,,Q3058449,way
-"Avenue de Morges",wikidata,,Q69401,way
-"Avenue de Rhodanie",wikidata,,Q3429578,way
-"Avenue de l'Eglise-Anglaise",wikidata,,Q19406921,way
-"Avenue de l'Université",wikidata,,Q3918,way
-"Avenue de la Dent-d'Oche",wikidata,,Q1189865,way
-"Avenue de la Gare",wikidata,,Q669678,way
-"Avenue de la Tour Haldimand",wikidata,,Q195496,way
-"Avenue des Acacias",wikidata,,Q81666,way
-"Avenue des Alpes",wikidata,,Q1286,way
-"Avenue des Casernes",wikidata,,Q131263,way
-"Avenue des Oiseaux",wikidata,,Q5113,way
-"Avenue des Tilleuls",wikidata,,Q127849,way
-"Avenue du Chablais",wikidata,,Q869650,way
-"Avenue du Léman",wikidata,,Q6403,way
-"Avenue du Mont-Blanc",wikidata,,Q583,way
-"Avenue du Mont-d'Or",wikidata,,Q3322201,way
-"Avenue du Temple",wikidata,,Q44539,way
-"Avenue du Tribunal-Fédéral",wikidata,,Q676553,way
-"Avenue du Vieux-Moulin",wikidata,,Q44494,way
-"Cap de Vaudaire",wikidata,,Q3555050,way
-"Chemin de Bel-Orne",wikidata,,Q69745,way
-"Chemin de Boston",wikidata,,Q100,way
-"Chemin de La Vuachère",wikidata,,Q693050,way
-"Chemin de Renens",wikidata,,Q69745,way
-"Chemin de l'Usine-à-Gaz",wikidata,,Q56301875,way
-"Chemin de la Chocolatière",wikidata,,Q305012,way
-"Chemin de la Forêt",wikidata,,Q4421,way
-"Chemin de la Fourmi",wikidata,,Q7386,way
-"Chemin de la Vuachère",wikidata,,Q693050,way
-"Chemin des Abeilles",wikidata,,Q324132,way
-"Chemin des Aubépines",wikidata,,Q132557,way
-"Chemin des Cèdres",wikidata,,Q128550,way
-"Chemin des Celtes",wikidata,,Q35966,way
-"Chemin des Diablerets",wikidata,,Q15139,way
-"Chemin des Epinettes",wikidata,,Q26782,way
-"Chemin des Fougères",wikidata,,Q80005,way
-"Chemin des Lys",wikidata,,Q5194627,way
-"Chemin des Mouettes",wikidata,,Q3325437,way
-"Chemin des Plaines",wikidata,,Q160091,way
-"Chemin du Calvaire",wikidata,,Q371752,way
-"Chemin du Cerisier",wikidata,,Q2946681,way
-"Chemin du Frêne",wikidata,,Q128887,way
-"Chemin du Moléson",wikidata,,Q16586,way
-"Chemin du Mollendruz",wikidata,,Q391715,way
-"Chemin du Muveran",wikidata,,Q674584,way
-"Chemin du Parc-de-Valency",wikidata,,Q86726637,way
-"Chemin du Petit-Château",wikidata,,Q751876,way
-"Chemin du Salève",wikidata,,Q1711734,way
-"Escaliers du Grand-Pont",wikidata,,Q682024,way
-"Esplanade du Château",wikidata,,Q688912,way
-"Galerie Saint-François",wikidata,,Q3586117,way
-"Passage Saint-François",wikidata,,Q3586117,way
-"Passerelle Lucy-Dutoit",wikidata,,Q682024,way
-"Passerelle du Grand-Pont",wikidata,,Q682024,way
-"Place Saint-François",wikidata,,Q3586117,relation+way
-"Place de l'Europe",wikidata,,Q46,relation+way
-"Place de la Cathédrale",wikidata,,Q669544,relation+way
-"Place de la Gare",wikidata,,Q669678,way
-"Place du Nord",wikidata,,Q659,way
-"Place du Tunnel",wikidata,,Q86732482,way
-"Placette du Tunnel",wikidata,,Q86732482,way
-"Promenade de la Ficelle",wikidata,,Q143845,way
-"Promenade des Molasses",wikidata,,Q304080,way
-"Quai d'Ouchy",wikidata,,Q870499,way
-"Quai de Belgique",wikidata,,Q31,way
-"Route Cantonale",wikidata,,Q869650,way
-"Route d'Oron",wikidata,,Q70734,way
-"Route d'Yverdon",wikidata,,Q63946,way
-"Route de Berne",wikidata,,Q70,way
-"Route de Lausanne",wikidata,,Q807,way
-"Route de Mollie-Margot",wikidata,,Q3319599,way
-"Route de Neuchâtel",wikidata,,Q69345,relation+way
-"Route de Prilly",wikidata,,Q69757,way
-"Route de Renens",wikidata,,Q69745,way
-"Route de la Pierre-à-Cambot",wikidata,,Q3387852,way
-"Rue Saint-François",wikidata,,Q3586117,way
-"Rue de Genève",wikidata,,Q71,way
-"Rue de Strasbourg",wikidata,,Q6602,way
-"Rue de l'Ecole-de-Commerce",wikidata,,Q1143635,way
-"Rue de l'Eglise Anglaise",wikidata,,Q19406921,way
-"Rue de l'Industrie",wikidata,,Q8148,way
-"Rue de la Pontaise",wikidata,,Q668606,way
-"Rue de la Tour",wikidata,,Q16010656,way
-"Rue des Côtes-de-Montbenon",wikidata,,Q3058449,way
-"Rue des Glaciers",wikidata,,Q35666,way
-"Rue des Oliviers",wikidata,,Q37083,way
-"Rue du Grand-Chêne",wikidata,,Q12004,way
-"Rue du Grand-Pont",wikidata,,Q682024,way
-"Rue du Jura",wikidata,,Q178611,way
-"Rue du Nord",wikidata,,Q659,way
-"Rue du Petit-Chêne",wikidata,,Q12004,way
-"Rue du Simplon",wikidata,,Q471166,way
-"Rue du Tunnel",wikidata,,Q86732482,way
-"Ruelle des Tanneurs",wikidata,,Q365461,way
-"Ruelle du Grand-Pont",wikidata,,Q682024,way
-"Tunnel Est Saint-François",wikidata,,Q3586117,way
-"Tunnel Ouest Saint-François",wikidata,,Q3586117,way
 "Allée du Bornan",,,,way
 "Avenue Beauregard",,,,way
 "Avenue Cécil",,,,way
@@ -449,6 +342,7 @@ Jetée-de-la-Compagnie,,,,way
 "Place Liliane-Bergier",,,,way
 "Place Madeleine",,,,relation+way
 "Place Pépinet",,,,way
+"Place Violette-Taillens",,,,way
 "Place de l'Ours",,,,way
 "Place de la Fontaine-de-Cuivre",,,,relation+way
 "Place de la Louve",,,,way
