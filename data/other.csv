@@ -145,7 +145,6 @@ name,source,gender,wikidata,type
 "Chemin de Verdonnet",,,,way
 "Chemin de Villard",,,,way
 "Chemin de l'Ancien-Stand",,,,way
-"Chemin de la Batelière",,,,way
 "Chemin de la Bergerie",,,,way
 "Chemin de la Cassinette",,,,way
 "Chemin de la Chapelle",,,,way
@@ -227,7 +226,6 @@ name,source,gender,wikidata,type
 "Chemin des Noisetiers",,,,way
 "Chemin des Paleyres",,,,way
 "Chemin des Pâquerettes",,,,way
-"Chemin des Pervenches",,,,way
 "Chemin des Pinsons",,,,way
 "Chemin des Planchettes",,,,way
 "Chemin des Platanes",,,,way
@@ -279,7 +277,6 @@ name,source,gender,wikidata,type
 "Chemin du Martinet",,,,way
 "Chemin du Mont-Tendre",,,,way
 "Chemin du Mottey",,,,way
-"Chemin du Muguet",,,,way
 "Chemin du Mûrier",,,,way
 "Chemin du Noirmont",,,,way
 "Chemin du Petit-Flon",,,,way
@@ -501,6 +498,7 @@ Jetée-de-la-Compagnie,,,,way
 "Sentier du Signal",,,,way
 "Tranchée du Languedoc",,,,way
 "Tunnel de Chauderon",,,,way
+"Tunnel de la Barre",,,,way
 Vallée-de-la-Jeunesse,,,,way
 Vieux-Port,,,,way
 "Voie du Chariot",,,,way
