@@ -114,7 +114,6 @@ name,source,gender,wikidata,type
 "Chemin de Longeraie",,,,way
 "Chemin de Maillefer",,,,way
 "Chemin de Malley",,,,way
-"Chemin de Marin",,,,way
 "Chemin de Mauvernay",,,,way
 "Chemin de Meillerie",,,,way
 "Chemin de Mémise",,,,way
@@ -126,7 +125,7 @@ name,source,gender,wikidata,type
 "Chemin de Montolivet",,,,way
 "Chemin de Mornex",,,,way
 "Chemin de Passerose",,,,way
-"Chemin de Pierre Ozaire",,,,way
+"Chemin de Pierre-Ozaire",,,,way
 "Chemin de Pierre-de-Plan",,,,way
 "Chemin de Pierreval",,,,way
 "Chemin de Praz-Berthoud",,,,way
@@ -256,9 +255,9 @@ name,source,gender,wikidata,type
 "Chemin du Capelard",,,,way
 "Chemin du Chalet Saboton",,,,way
 "Chemin du Chalet à Marin",,,,way
-"Chemin du Chalet de Praroman",,,,way
 "Chemin du Chalet-Mignon",,,,way
 "Chemin du Chalet-à-Marin",,,,way
+"Chemin du Chalet-de-Praroman",,,,way
 "Chemin du Chasseron",,,,way
 "Chemin du Closelet",,,,way
 "Chemin du Couchant",,,,way
@@ -382,7 +381,7 @@ Jetée-de-la-Compagnie,,,,way
 "Route de Marin",,,,way
 "Route de Montblesson",,,,way
 "Route de Montheron",,,,way
-"Route de Pierre Ozaire",,,,way
+"Route de Pierre-Ozaire",,,,way
 "Route de Praz-Gilliard",,,,way
 "Route de Romanel",,,,way
 "Route de Vidy",,,,way
@@ -390,14 +389,13 @@ Jetée-de-la-Compagnie,,,,way
 "Route de la Bérallaz",,,,way
 "Route de la Blécherette",,,,way
 "Route de la Chamberonne",,,,way
-"Route de la Charbonnière",,,,way
 "Route de la Claie-aux-Moines",,,,way
 "Route de la Clochatte",,,,way
 "Route de la Corniche",,,,way
 "Route de la Feuillère",,,,way
 "Route de la Grange-Neuve",,,,way
 "Route de la Maladière",,,,way
-"Route de la Moille Grise",,,,way
+"Route de la Moille-Grise",,,,way
 "Route de la Rama",,,,way
 "Route de la Râpe",,,,way
 "Route de la Salle-des-Fayards",,,,way
@@ -497,6 +495,7 @@ Jetée-de-la-Compagnie,,,,way
 "Sentier des Ruines-Romaines",,,,way
 "Sentier du Signal",,,,way
 "Tranchée du Languedoc",,,,way
+Tunnel,,,,way
 "Tunnel de Chauderon",,,,way
 "Tunnel de la Barre",,,,way
 Vallée-de-la-Jeunesse,,,,way
