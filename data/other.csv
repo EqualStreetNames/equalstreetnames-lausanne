@@ -27,10 +27,8 @@ name,source,gender,wikidata,type
 "Avenue de Mon-Loisir",,,,way
 "Avenue de Montchoisi",,,,way
 "Avenue de Montoie",,,,way
-"Avenue de Provence",,,,way
 "Avenue de Riant-Mont",,,,way
 "Avenue de Rosemont",,,,way
-"Avenue de Savoie",,,,way
 "Avenue de Sévelin",,,,way
 "Avenue de Solange",,,,way
 "Avenue de Tivoli",,,,way
@@ -270,7 +268,6 @@ name,source,gender,wikidata,type
 "Chemin du Grand-Praz",,,,way
 "Chemin du Grandchamp",,,,way
 "Chemin du Grillon",,,,way
-"Chemin du Languedoc",,,,way
 "Chemin du Levant",,,,way
 "Chemin du Marronnier",,,,way
 "Chemin du Martinet",,,,way
@@ -325,7 +322,6 @@ Jetée-de-la-Compagnie,,,,way
 "Parc du Loup",,,,way
 "Parcours Vita Lausanne-Chalet-à-Gobet",,,,way
 "Parcours Vita Lausanne-Vidy",,,,way
-"Passage Belle-Rose",,,,way
 "Passage de Montriond",,,,way
 "Passage de l'Aurore",,,,way
 "Passage de l'Entrepôt-Fédéral",,,,way
@@ -350,6 +346,7 @@ Jetée-de-la-Compagnie,,,,way
 "Place de la Palud",,,,relation+way
 "Place de la Riponne",,,,relation+way
 "Place de la Sallaz",,,,way
+"Place des Artisanes",,,,way
 "Place des Pionnières",,,,way
 "Place des Râpes",,,,way
 "Place du 14-Juin",,,,relation
@@ -372,7 +369,6 @@ Jetée-de-la-Compagnie,,,,way
 "Quartier de la Violette",,,,way
 "Rond-Point de Verdeil",,,,way
 "Rond-Point de la Maladière",,,,way
-"Route Hélène-Monastier",,,,way
 "Route d'Epalinges",,,,way
 "Route de Benenté",,,,way
 "Route de Cery",,,,way
@@ -432,7 +428,6 @@ Jetée-de-la-Compagnie,,,,way
 "Rue Couchirard",,,,way
 "Rue Etraz",,,,way
 "Rue Grand-Saint-Jean",,,,way
-"Rue Madeleine",,,,way
 "Rue Marterey",,,,way
 "Rue Mauborget",,,,way
 "Rue Mercerie",,,,way
@@ -440,9 +435,7 @@ Jetée-de-la-Compagnie,,,,way
 "Rue Orient-Ville",,,,way
 "Rue Pépinet",,,,way
 "Rue Pré-du-Marché",,,,way
-"Rue Saint-Etienne",,,,way
 "Rue Saint-Laurent",,,,way
-"Rue Saint-Pierre",,,,way
 "Rue Saint-Roch",,,,way
 "Rue Sera-Biasini",,,,way
 "Rue Traversière",,,,way
